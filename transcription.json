@@ -7,10 +7,10 @@
     "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001837",
     "manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001837/manifest.json",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅回圖，比對獨立讀稿及原初錄，採用 96 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "Source-image review compared independent observations with the initial transcription and records 96 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -295,7 +295,7 @@
                 4910,
                 2422
               ],
-              "text": "治癰後元通氣散也元應□末諸瘡之部",
+              "text": "治癰復元通氣散也元應□末諸瘡之部",
               "note": "靠右頁邊孤列，癰、次元及應附近待核。",
               "unresolved_spans": [
                 {
@@ -304,7 +304,14 @@
                   "extent_in_source": "uncertain"
                 }
               ],
-              "role": "marginal_note"
+              "role": "marginal_note",
+              "initial_unresolved_spans": [
+                {
+                  "start": 10,
+                  "end": 11,
+                  "extent_in_source": "uncertain"
+                }
+              ]
             }
           ],
           "notes": [
@@ -411,10 +418,11 @@
                 2687,
                 3481
               ],
-              "text": "瘟疫　内傷　霍亂　痢疾　泄瀉",
+              "text": "瘟疫　内傷　霍亂　瘧疾　泄瀉",
               "note": null,
               "unresolved_spans": [],
-              "role": "contents"
+              "role": "contents",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f004-L-4",
@@ -1158,10 +1166,11 @@
                 4867,
                 3445
               ],
-              "text": "四十余歳丈夫素肥白去年以来右手足疼痺大便秘結痰嗽脈沉",
+              "text": "四十余歳丈夫素肥白去年以来右手足癈痺大便秘結痰嗽脈沉",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f006-R-2",
@@ -1608,10 +1617,11 @@
                 2398,
                 3421
               ],
-              "text": "人未起哉問召無對仍親近候之喉中口鼻痰涎壅塞如鋸無言語診",
+              "text": "人未起哉問否無對仍親近候之喉中口鼻痰涎壅塞如鋸無言語診",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f006-L-6",
@@ -1812,10 +1822,11 @@
                 1255,
                 3048
               ],
-              "text": "老人瘦弱手足痺于時聖急脈左右倶虚弱而微大左結四動",
+              "text": "老人瘦弱手足痺于時牽急脈左右倶虚弱而微大左結四動",
               "note": "于時下字初候選聖。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f006-L-13a",
@@ -2444,10 +2455,11 @@
                 2103,
                 3282
               ],
-              "text": "壮歳男子卒発熱頭痛手足節痛腰背引痛煩渇吐嘔脈大有力",
+              "text": "壮歳男子卒発熱頭痛手足節痛腰脊引痛煩渇吐嘔脈大有力",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f007-L-7a",
@@ -2563,10 +2575,11 @@
                 1538,
                 3400
               ],
-              "text": "耳聾耳黄黒譫言熱往来則眼赤熱退則不赤全不食大便不通八日脈弦",
+              "text": "耳聾歯黒譫言熱往来則眼赤熱退則不赤全不食大便不通八日脈弦",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f007-L-11a",
@@ -3000,10 +3013,11 @@
                 3291,
                 3445
               ],
-              "text": "三十余歳男子感風寒壮熱頭微痛手足倦怠脈弦五動余五六日不解用発",
+              "text": "二十余歳男子感風寒壮熱頭微痛手足倦怠脈弦五動余五六日不解用発",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f008-R-12a",
@@ -3161,10 +3175,11 @@
                 2681,
                 2651
               ],
-              "text": "食失味腰胯無力于時微熱胸中怔悸脈虚緩",
+              "text": "食失味腰脚無力于時微熱胸中怔悸脈虚緩",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f008-L-3a",
@@ -3547,10 +3562,11 @@
                 4552,
                 3424
               ],
-              "text": "用薬一貼出汗病症悉退微咳脈如故見手足頭面有赤色于時世間痘",
+              "text": "用薬二貼出汗病症悉退微咳脈如故見手足頭面有赤色于時世間痘",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f009-R-4",
@@ -3683,10 +3699,11 @@
                 3845,
                 2840
               ],
-              "text": "飲引譫言妄語二便易利唇舌黄皆黒脈数無力",
+              "text": "飲引譫言妄語二便易利唇舌歯皆黒脈数無力",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f009-R-8a",
@@ -4298,10 +4315,11 @@
                 4570,
                 1715
               ],
-              "text": "疑之過食飲妻療疾飲",
+              "text": "疑之過食飲変癇疾歟",
               "note": "過、妻療二處待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f010-R-3a",
@@ -4969,10 +4987,11 @@
                 1267,
                 3418
               ],
-              "text": "二十余歳男七八日以前及夜半故譫言傍人驚問之兎未叫我乃医診之風",
+              "text": "二十余歳男七八日以前及夜半故譫言傍人驚問之鬼未叱我乃医診之風",
               "note": "兎、叫我待覆，接下幅。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             }
           ],
           "notes": [
@@ -5049,10 +5068,11 @@
                 4558,
                 3451
               ],
-              "text": "用薬三貼畢頭痛乾呃止欲求食唯腰痛甚難轉側渇手足指冷于時索挙",
+              "text": "用薬三貼畢頭痛乾呃止欲求食唯腰痛甚難轉側渇手足指冷于時緊牽",
               "note": "索挙待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f011-R-3a",
@@ -5465,10 +5485,11 @@
                 2407,
                 3391
               ],
-              "text": "壮歳男終夜勤番請甚覚感寒翌頭痛腰背支節疼痛項強悪寒",
+              "text": "壮歳男終夜勤普請甚覚感寒翌頭痛腰背支節疼痛項強悪寒",
               "note": "勤、請與覺草字待核。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f011-L-6",
@@ -6050,10 +6071,11 @@
                 3706,
                 2266
               ],
-              "text": "用薬一七日後訴味微咳胸痛未止于時喀痰",
+              "text": "用薬一七日欲食少味微咳胸痛未止于時喀痰",
               "note": "後至味間有墨刮，採候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f012-R-10",
@@ -6135,10 +6157,11 @@
                 3138,
                 3454
               ],
-              "text": "一男子事君気爵甚咳嗽頭痛寒熱往来診項強然如大初症十余日以",
+              "text": "一男子事君気爵甚咳嗽頭痛寒熱往来診項強直如大初症十余日以",
               "note": "爵、大初字形待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             }
           ],
           "notes": [
@@ -6637,10 +6660,11 @@
                 4828,
                 3451
               ],
-              "text": "五十余歳婦人素瘦身常有積此四五ケ年以来発喘至冬月減至六月",
+              "text": "五十余歳婦人素瘦身常有積此四五ケ年以来発喘至亥月減至冬月",
               "note": "ケ是欄內片假名。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f013-R-1a",
@@ -6906,10 +6930,11 @@
                 3839,
                 3069
               ],
-              "text": "用薬十余貼病症大半減咳嗽不止食不進比則嗽止食進三倍",
+              "text": "用薬十余貼病症大半減咳嗽不止食不進比前則嗽止食進三倍",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f013-R-8a",
@@ -7192,10 +7217,11 @@
                 2530,
                 3451
               ],
-              "text": "与参蘇飲二貼頭痛微熱脈倶全平而残症喘急甚唖耳聾鼻不聞香",
+              "text": "与参蘇飲二貼頭痛微熱脈倶全平而残症喘急声唖耳聾鼻不聞香",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f013-L-5",
@@ -7294,10 +7320,11 @@
                 1974,
                 2585
               ],
-              "text": "用薬三四貼右病症病退翌日晚右症再起脈弦",
+              "text": "用薬三四貼右病症減退翌日晚右症再起脈弦",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f013-L-8a",
@@ -7612,10 +7639,11 @@
                 4407,
                 3451
               ],
-              "text": "五十余歳男素嗜酒五月中旬以来腹痛渾身面目虚浮五月下旬腹満",
+              "text": "五十余歳男素嗜酒五月中旬以来腹痛渾身面目虚浮五月下旬脹満",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f014-R-5",
@@ -8323,10 +8351,11 @@
                 4555,
                 3442
               ],
-              "text": "用薬二貼小便通来自巳刻至午下刻二升全至申刻脈後知人事如平",
+              "text": "用薬二貼小便通来自巳刻至午下刻二升全至申刻脈復知人事如平",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f015-R-4",
@@ -8493,10 +8522,11 @@
                 3412,
                 3457
               ],
-              "text": "発熱往来為耳聾耳為邵声音甚振而言不分明周身振而不能立大便少",
+              "text": "発熱往来為耳聾為鄙声音振而言不分明周身振而不能立大便少",
               "note": "邵字待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f015-R-12",
@@ -8544,10 +8574,11 @@
                 3135,
                 3457
               ],
-              "text": "二十三歳野子夏月至夜務農業入水無度須及十余日不食腹脹瘦里脈",
+              "text": "十二三歳野子夏月昼夜務農業入水無度須及十余日不食腹脹瘦里脈",
               "note": "瘦里候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             }
           ],
           "notes": [
@@ -9118,10 +9149,11 @@
                 4413,
                 3313
               ],
-              "text": "服薬二度得吐少時赤大便通手足煩熱煩渇腹微痛脈浮緩",
+              "text": "服薬二度得吐少時亦大便通手足煩熱煩渇腹微痛脈浮緩",
               "note": "少時赤候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f016-R-4a",
@@ -9483,10 +9515,11 @@
                 2530,
                 3442
               ],
-              "text": "二十余歳男素肥白一日食炙鱠翌日腹痛瀉下一二行腹痛自去及今五十余",
+              "text": "二十余歳男素肥白一日食炙膾翌日腹痛瀉下一二行腹痛自去及今五十余",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f016-L-5",
@@ -9551,10 +9584,11 @@
                 2109,
                 3454
               ],
-              "text": "加七月中旬小腹右腫起如覆盂無病医謂定作腸癰治而腫起退去近来",
+              "text": "加七月中旬小腹右腫起如覆盂無病医謂竟作腸癰治而腫起退去近来",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f016-L-8",
@@ -10115,10 +10149,11 @@
                 2954,
                 3457
               ],
-              "text": "服薬一貼畢気快遊戯園暮数行及申刻頭痛発熱呕吐前後無知覚診脈",
+              "text": "服薬一貼畢気快遊戯圍碁数行及申刻頭痛発熱呕吐前後無知覚診脈",
               "note": "園後暮待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f017-L-2",
@@ -10200,10 +10235,11 @@
                 2401,
                 2431
               ],
-              "text": "住邪気製一方用薬一貼病症全無再発",
+              "text": "住邪気製一方用薬二貼病症全無再発",
               "note": "住字待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f017-L-5a",
@@ -10302,10 +10338,11 @@
                 1971,
                 3442
               ],
-              "text": "六余歳男臨于海遊食瓜菓飯家頭痛腹痛吐瀉煩渇腹脹喘急脈沉",
+              "text": "六余歳男臨于漁遊食瓜菓飯家頭痛腹痛吐瀉煩渇腹脹喘急脈沉",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f017-L-9",
@@ -10768,10 +10805,11 @@
                 3421,
                 3307
               ],
-              "text": "睡乍則盗汗如瀉于足煩熱微渇飲食無味消瘦大便後重小便赤脈弦数",
+              "text": "眠々則盗汗如瀉于足煩熱微渇飲食無味消瘦大便後重小便赤脈弦数",
               "note": "開頭乍／近重文待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f018-R-12",
@@ -11110,10 +11148,11 @@
                 1685,
                 3445
               ],
-              "text": "服薬二貼自汗咳癒雖食進難消化一両日有間而便瀉脈浮弦或一日有間便瀉二",
+              "text": "服薬二貼自汗咳減雖食進難消化一両日有間而便瀉脈浮弦或一日有間便瀉二",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f018-L-11",
@@ -11330,10 +11369,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 4193,
-              "text": "則眼眩大便泄滯小便清利診脉浮軟于此加眩",
+              "text": "則眼眩大便澁滯小便清利診脉浮軟于此加眩",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f019-R-05a",
@@ -11987,10 +12027,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 3447,
-              "text": "十七八男瘧疾三発頭痛手足節疼甚渴引飲胸膈煩悶不寧脉弦數結促用茅一帖",
+              "text": "十七八男瘧疾二発頭痛手足節疼甚渴引飲胸膈煩悶不寧脉弦數結促用茅一帖",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f020-R-11",
@@ -12161,10 +12202,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 2166,
-              "text": "壮歳男瘧疾三発大熱引飲頭痛脉洪",
+              "text": "壮歳男瘧疾二発大熱引飲頭痛脉洪",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f020-L-06a",
@@ -12356,10 +12398,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 4729,
-              "text": "用茅二帖瀉止熱来腹脹痛咽乾不食小便泄",
+              "text": "用茅二帖瀉止熱来腹脹痛口乾不食小便澁",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f021-R-01a",
@@ -12881,10 +12924,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 4723,
-              "text": "尤余歳男自今年六月患泄瀉昼夜四五行食則胸塞腹鳴至圊則怯吐咳",
+              "text": "尤余歳男自今年六月患泄瀉昼夜四五行食則胸塞腹鳴至圊則怯吐咳々",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f022-R-02",
@@ -13847,10 +13891,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 4602,
-              "text": "近年氣力衰世受懶診脉沉微細軟四動左微大右微小",
+              "text": "近年氣力衰世事懶診脉沉微細軟四動左微大右微小",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f024-R-02a",
@@ -13979,10 +14024,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 3610,
-              "text": "四十三之男一兩年痰咽滯澁咯難去于時帯絲血氣無動頭重不食大便微結脉沉",
+              "text": "卅三之男一兩年痰咽滯澁咯難去于時帯絲血氣無動頭重不食大便微結脉沉",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f024-R-10",
@@ -14933,10 +14979,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 4073,
-              "text": "貴人務世受過多則眩暈不安",
+              "text": "貴人務世事過多則眩暈不安",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f026-R-06a",
@@ -15929,10 +15976,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 4091,
-              "text": "瘦今年自二月初睡中汗多去當臍有動氣牢而于時痛光三日発熱鮮血多下加玉形精神",
+              "text": "瘦今年自二月初臍中汗多出當臍有動氣牢而于時痛光三日発熱鮮血多下加玉形精神",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f028-R-07",
@@ -16334,10 +16382,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 4777,
-              "text": "寒熱往来飲食失味二便不調支節痛面色痿黃于時微渴脉虚弦氣以難動",
+              "text": "発熱往来飲食失味二便不調支節痛面色痿黃于時微渴脉虚弦氣以難動",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f029-R-01a",
@@ -17324,10 +17373,11 @@
               "text_layer": "body",
               "language": "mul",
               "source_x_approx": 4777,
-              "text": "尤余歳婦素体瘦月受多少不定四ケ年已来痞塊臍大如椀于時動搖常微痛至夏",
+              "text": "尤余歳婦素体瘦月事多少不定四ケ年已来痞塊臍大如椀于時動搖常微痛至夏",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f031-R-02",
@@ -18446,10 +18496,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 3351,
-              "text": "○咽吐",
+              "text": "○咆吐",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f033-R-12",
@@ -18740,10 +18791,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 1342,
-              "text": "壮歳男応主命入山林蓬居七八年昼夜勤学去年以来胸膈疼痛于時発去正月下旬",
+              "text": "壮歳男応主命入山林菴居七八年昼夜勤学去年以来胸膈疼痛于時発去正月下旬",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f033-L-13",
@@ -19061,10 +19113,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 2617,
-              "text": "十七八歳男体瘦色白從四五年以前時々腰痛去年冬腰痛卒陰囊腫痛至二月大如斗他医",
+              "text": "十七八歳男体瘦色白從四五年以前時々腰痛去年冬腰痛卒陰囊腫痛至三月大如斗他医",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f034-L-04",
@@ -19388,10 +19441,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 3940,
-              "text": "十七八歳女子心腹疼痛吐不入茅水及四五日數方無寸効脉弦數一帖半愈",
+              "text": "十七八歳女子心腹病痛吐不入茅水及四五日數方無寸効脉弦數一帖半愈",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f035-R-07a",
@@ -20003,10 +20057,11 @@
               "text_layer": "body",
               "language": "lzh",
               "source_x_approx": 2906,
-              "text": "熱甚及日去則自安至無覺熱二便順食如常脉洪于時結滯",
+              "text": "熱甚及日去則自安全無覺熱二便順食如常脉洪于時結滯",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f036-L-02",
@@ -20346,10 +20401,11 @@
                 4585,
                 3424
               ],
-              "text": "六余歳男子素肥白嗜酒去三月上旬赴宴飯家発熱頭痛吐三度頭痛発熱正快",
+              "text": "廿余歳男子素肥白嗜酒去三月上旬赴宴飯家発熱頭痛吐三度頭痛発熱正快",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-R-4",
@@ -20363,10 +20419,11 @@
                 4437,
                 3445
               ],
-              "text": "気過於三日再発熱頭痛再発引飲甚他医治之平復食如常三月凡日已来及",
+              "text": "気過於三日再発熱頭痛再発引飲甚他医治之平復食如常三月廿一日已来及",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-R-5",
@@ -20471,10 +20528,11 @@
                 3866,
                 2888
               ],
-              "text": "六歳男二月下旬以来朝熱往来不食唇舌乾燥頭痛脈弦有力五動",
+              "text": "十八歳男二月下旬以来朝熱往来不食唇舌乾燥頭痛脈弦有力五動",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-R-8a",
@@ -20590,10 +20648,11 @@
                 3321,
                 3436
               ],
-              "text": "壮歳男去冬以来発狂他医治而狂止于時発診脈右浮大有力左沉弦素肥白嗜酒胸膈",
+              "text": "壮歳男去亥以来発狂他医治而狂止于時発診脈右浮大有力左沉弦素肥白嗜酒胸膈",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-R-13",
@@ -20649,10 +20708,11 @@
                 3005,
                 3430
               ],
-              "text": "六余歳男素肥白高利之向有志学両充暦以前咳嗽他医治而大半愈而再発作労虚",
+              "text": "廿余歳男素肥白高利之向有志学両充暦以前咳嗽他医治而大半愈而再発作労虚",
               "note": "高利之向與両充暦讀法待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-L-2",
@@ -20795,10 +20855,11 @@
                 2296,
                 3433
               ],
-              "text": "六八九歳男素瘦黒十年以前卒傷気絶三度有三四年而卒左耳甚痛寒熱往来及",
+              "text": "廿八九歳男素瘦黒十年以前落馬気絶二三度有三四年而卒左耳甚痛寒熱往来及",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-L-7",
@@ -20880,10 +20941,11 @@
                 1562,
                 1550
               ],
-              "text": "於夜同魚加諸治無寸効",
+              "text": "於夜間魚加諸治無寸効",
               "note": "同魚加待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-L-11a",
@@ -20914,10 +20976,11 @@
                 1471,
                 1441
               ],
-              "text": "○斑疹",
+              "text": "○班疹",
               "note": null,
               "unresolved_spans": [],
-              "role": "section_heading"
+              "role": "section_heading",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f037-L-13",
@@ -21079,10 +21142,11 @@
                 4320,
                 1393
               ],
-              "text": "○痘病",
+              "text": "○痓病",
               "note": null,
               "unresolved_spans": [],
-              "role": "section_heading"
+              "role": "section_heading",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f038-R-6",
@@ -21249,10 +21313,11 @@
                 3333,
                 3445
               ],
-              "text": "六余歳男子四五歳時有結喉之下缺盆中間腫物如青梅無痛痒外科診名気腫治",
+              "text": "廿余歳男子四五歳時有結喉之下缺盆中間腫物如青梅無痛痒外科診名気腫治",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f038-R-13",
@@ -21266,10 +21331,11 @@
                 3186,
                 3454
               ],
-              "text": "愈去月六六日之比卒悪寒上気両足冷至六八日右眼下腫発痛痒他医用敗毒散或荊",
+              "text": "愈去月廿六日之比卒悪寒上気両足冷至廿八日右眼下腫発痛痒他医用敗毒散或荊",
               "note": "日期兩處照候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             }
           ],
           "notes": [
@@ -21563,10 +21629,11 @@
                 1583,
                 3457
               ],
-              "text": "六七八歳下人素盛実常労役于山野不恐寒湿去夏六月下旬卒患血淋間痛牽引",
+              "text": "廿七八歳下人素盛実常労役于山野不恐寒湿去夏六月下旬卒患血淋間痛牽引",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f038-L-12",
@@ -21779,10 +21846,11 @@
                 4194,
                 2157
               ],
-              "text": "六余歳婦人卒悪寒或有熱大便秘結十余日",
+              "text": "廿余歳婦人卒悪寒或有熱大便秘結十余日",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f039-R-6a",
@@ -21938,10 +22006,11 @@
                 3481,
                 3457
               ],
-              "text": "貴人六余歳素嗜酒飲食肥白口舌赤爛或生瘡如飲食大便順脈滑月清凉薬患症益",
+              "text": "貴人廿余歳素嗜酒飲食肥白口舌赤爛或生瘡如飲食大便順脈滑月清凉薬患症益",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f039-R-12",
@@ -22031,16 +22100,17 @@
                 3078,
                 3373
               ],
-              "text": "洗眼散　煎□",
+              "text": "洗眼文　散し",
               "note": "尾筆疑假名字。",
-              "unresolved_spans": [
+              "unresolved_spans": [],
+              "role": "prescription",
+              "initial_unresolved_spans": [
                 {
                   "start": 5,
                   "end": 6,
                   "extent_in_source": "uncertain"
                 }
-              ],
-              "role": "prescription"
+              ]
             },
             {
               "id": "f039-L-2",
@@ -22122,10 +22192,11 @@
                 2455,
                 2570
               ],
-              "text": "六余歳男子臀生腫物大如手盂堅硬甚疼痛七八日脈緊濡",
+              "text": "廿余歳男子臀生腫物大如手盂堅硬甚疼痛七八日脈緊濡",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f039-L-5a",
@@ -22366,10 +22437,11 @@
                 1321,
                 3454
               ],
-              "text": "四十余歳男脊背癰腫及十余日疼痛甚腫色紅赤二便順食物如常脈弦急",
+              "text": "四十余歳男発背瘡腫及十余日疼痛甚腫色紅赤二便順食物如常脈弦急",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f039-L-13a",
@@ -22446,10 +22518,11 @@
                 4747,
                 2843
               ],
-              "text": "瘡甚痒腹上有膿如色豆手足乾瘡小而如鱗脈緊数大便秘腹脹食無妨",
+              "text": "瘡甚痒腹上有膿如泡豆手足乾瘡小而如鱗脈緊数大便秘腹脹食無妨",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f040-R-2a",
@@ -22565,10 +22638,11 @@
                 4188,
                 3457
               ],
-              "text": "六余歳下女従十二三年以来喘急渾身浮腫二便澁頭瘡多生十九歳時患風毒腫九年",
+              "text": "廿余歳下女従十二三年以前喘息渾身浮腫二便澁頭瘡多生十九歳時患風毒腫九年",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f040-R-7",
@@ -22650,10 +22724,11 @@
                 3751,
                 2594
               ],
-              "text": "疾凡日一発則三日而愈重発則二日愈脈寸浮微尺伏",
+              "text": "疾六七日一発則三日而愈重発則二日愈脈寸浮微尺伏",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f040-R-9a",
@@ -22735,10 +22810,11 @@
                 3330,
                 3018
               ],
-              "text": "六余歳女人渾身発小瘡斯頭面壅滞頭少痛耳鳴眩暈項急脈弦",
+              "text": "廿余歳女人渾身発小瘡斯頭面壅滞頭少痛耳鳴眩暈項急脈弦",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f040-R-12a",
@@ -22769,10 +22845,11 @@
                 3189,
                 3451
               ],
-              "text": "六余歳婦人素盛実飲食進無所苦者毎年患瘡癘大如桃如楊核如豆面肩背手足腹上",
+              "text": "廿余歳婦人素盛実飲食進無所苦者毎年患瘡癘大如桃如楊核如豆面肩背手足腹上",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             }
           ],
           "notes": [
@@ -23049,10 +23126,11 @@
                 1459,
                 3454
               ],
-              "text": "六十歳女素瘦人身色白十年以来左手掌心如馬皮厚而白如鼓次才去後赤如綿裏",
+              "text": "六十歳女素瘦人身色黒十年以来左手掌心如馬皮厚而白如鼓次才去後赤如綿裏",
               "note": "鼓次才候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f040-L-13",
@@ -23163,10 +23241,11 @@
                 4774,
                 2873
               ],
-              "text": "十三歳童子天性手足脈生瘡痛痒及至頸生小癘痛甚大便結滞脈浮数",
+              "text": "十三歳童子天性手足脛生瘡痛痒及至頸生小癘痛甚大便結滞脈浮数",
               "note": "脈／股候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f041-R-2a",
@@ -23664,10 +23743,11 @@
                 1884,
                 3457
               ],
-              "text": "六七八歳貴女禀受虚弱一両年以来有姙孕終不能養胎去歳十二月末小産今来経",
+              "text": "廿七八歳貴女禀受虚弱一両年以来有姙孕終不能養胎去歳十二月末小産今来経",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f041-L-10",
@@ -23829,10 +23909,11 @@
                 4762,
                 3454
               ],
-              "text": "四十余歳婦崩漏及二年不愈渾身浮腫常大便瀉如水全不食塩味湯澁飲食脈浮大",
+              "text": "四十余歳婦崩漏及三年不愈渾身浮腫常大便瀉如水全不食塩味湯澁飲食脈浮大",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f042-R-3",
@@ -24020,10 +24101,11 @@
                 3929,
                 2443
               ],
-              "text": "室女無経及三十余日不止不食煩渇脈浮而無力四動",
+              "text": "室女毎経及三十余日不止不食煩渇脈浮而無力四動",
               "note": "無経之無、整句待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f042-R-8a",
@@ -24054,10 +24136,11 @@
                 3788,
                 3454
               ],
-              "text": "六余歳女去正月下旬吐血鮮者四五度他医治之愈七八日以后大便血及今不止四月上旬以",
+              "text": "廿余歳女去正月下旬吐血鮮者四五度他医治之愈七八日以后大便血及今不止四月上旬以",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f042-R-10",
@@ -24139,10 +24222,11 @@
                 3216,
                 3451
               ],
-              "text": "診脈沉四動用薬及百余日月至多通来一両月之后懐姙今生子三人",
+              "text": "診脈沉四動用薬及百余日月至多通来一両月之后懐姙今生子二三人",
               "note": "候續「小」字，欄頭診之形可辨。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             }
           ],
           "notes": [
@@ -24703,10 +24787,11 @@
                 4088,
                 1944
               ],
-              "text": "用薬二貼翌日未明易産畢",
+              "text": "用薬二貼翌日未明易産畢胞衣未下脈与気平",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f043-R-7a",
@@ -24737,10 +24822,11 @@
                 3959,
                 2278
               ],
-              "text": "用薬二貼胞衣未下気暈腹微痛手足微冷脈浮",
+              "text": "用薬二貼胞衣下気暈腹微痛手足微冷脈浮",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f043-R-8a",
@@ -24805,10 +24891,11 @@
                 3670,
                 3282
               ],
-              "text": "六七歳婦臨産及翌日卯刻未産診脈緊急于時如絶腹痛甚無他怪症用薬服一貼畢快",
+              "text": "廿七八歳婦人臨産及翌日卯刻未産診脈緊急于時如絶腹痛甚無他怪症用薬服一貼畢快",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f043-R-11",
@@ -25699,10 +25786,11 @@
                 2972,
                 3424
               ],
-              "text": "六余歳婦人去夏産畢経十余日左乳房核痛漸長作癰瘡外科用針刺膿血流出至今",
+              "text": "廿余歳婦人去冬産畢経十余日左乳房核痛漸長作癰瘡外科用針刺膿血流出至今",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f044-L-3",
@@ -25818,10 +25906,11 @@
                 2263,
                 2964
               ],
-              "text": "十歳女子発熱面赤撮口于時痩癡啼声不通如呻吟大小便如常飲乳倍常",
+              "text": "一歳女子発熱面赤撮口于時痩癡啼声不通如呻吟大小便如常飲乳倍常",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f044-L-7a",
@@ -25971,10 +26060,11 @@
                 1435,
                 3138
               ],
-              "text": "一歳女子素肥満盛実無故而卒絶死及半時未甦脈動身温和足冷進薬二三口忽蘇生",
+              "text": "二歳女子素肥満盛実無故而卒絶死及半時未甦脈動身温和足冷進薬二三口忽蘇生",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f044-L-13a",
@@ -26722,10 +26812,11 @@
                 2004,
                 2864
               ],
-              "text": "二歳児発熱吐瀉于時発搐及四日未解午朝見赤粟点一二見小便清利",
+              "text": "三歳児発熱吐瀉于時発搐及四日未解午朝見赤粟点一二見小便清利",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f045-L-10",
@@ -27108,10 +27199,11 @@
                 3691,
                 2858
               ],
-              "text": "医雖与数方無寸効及考一方進之六余日甚有奇効食進病退大半愈",
+              "text": "医雖与数方無寸効及考一方進之廿余日甚有奇効食進病退大半愈",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f046-R-10a",
@@ -27462,10 +27554,11 @@
                 1850,
                 3406
               ],
-              "text": "七歳女子風症病十四日諸医治之病悉愈食物如常二便順食柿于時腹痛呕吐他医与薬悉",
+              "text": "七八歳女子風症病十四日諸医治之病悉愈食物如常二便順食柿于時腹痛呕吐他医与薬悉",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f046-L-11",
@@ -27797,10 +27890,11 @@
                 3986,
                 3132
               ],
-              "text": "二歳子渾身生小瘡自頭面至手足無同地日晡微熱二便順乳食無否艾母仍平愈",
+              "text": "三歳子渾身生小瘡自頭面至手足無同地日晡微熱二便順乳食無否艾母仍平愈",
               "note": "無同地、末段艾母均待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f047-R-8a",
@@ -27831,10 +27925,11 @@
                 3851,
                 1393
               ],
-              "text": "○斑疹",
+              "text": "○班疹",
               "note": null,
               "unresolved_spans": [],
-              "role": "section_heading"
+              "role": "section_heading",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f047-R-10",
@@ -28043,10 +28138,11 @@
                 2708,
                 2618
               ],
-              "text": "六四五歳男自両目濁血流出而以手摩両目或以水洗治一日四五度",
+              "text": "廿四五歳男自面目濁血流出而以手摩面目或以水洗治一日四五度",
               "note": "年歲及濁候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f047-L-4a",
@@ -28157,10 +28253,11 @@
                 2428,
                 2190
               ],
-              "text": "男子四五歳之間両手足之脈渋代与三貼如神",
+              "text": "男子十四五歳之間両手足之脈渋代与三貼如神",
               "note": null,
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f047-L-6a",
@@ -28242,10 +28339,11 @@
                 2133,
                 2269
               ],
-              "text": "一男癘疾三年余終不治案工東年先生之主方",
+              "text": "一男瘧疾三年余終不治與工東年先生之主方",
               "note": "人名及「案工東年」待覆。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f047-L-8a",
@@ -28259,10 +28357,11 @@
                 2202,
                 680
               ],
-              "text": "癘",
+              "text": "瘧",
               "note": null,
               "unresolved_spans": [],
-              "role": "red_note"
+              "role": "red_note",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f047-L-8b",
@@ -28293,10 +28392,11 @@
                 1995,
                 1598
               ],
-              "text": "似哉脳虫雑養之未用",
+              "text": "妙哉胸虫雞糞之未用",
               "note": "此欄候讀。",
               "unresolved_spans": [],
-              "role": "body"
+              "role": "body",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f047-L-10",
@@ -28463,7 +28563,7 @@
                 3667,
                 3484
               ],
-              "text": "馬嶋良三謹筆□",
+              "text": "馬島良三謹筆□",
               "note": "署名第二字嶋／島，末字組仍待裁。",
               "unresolved_spans": [
                 {
@@ -28472,7 +28572,14 @@
                   "extent_in_source": "uncertain"
                 }
               ],
-              "role": "attribution"
+              "role": "attribution",
+              "initial_unresolved_spans": [
+                {
+                  "start": 6,
+                  "end": 7,
+                  "extent_in_source": "uncertain"
+                }
+              ]
             },
             {
               "id": "f048-R-2",
@@ -28486,10 +28593,11 @@
                 3553,
                 2753
               ],
-              "text": "明治十五時年七十三時々相用有効隠翁書　方庵",
+              "text": "明治十五時年七十三時々相用百効隠翁書　方庵",
               "note": "隠翁／隱翁為書寫近形；方庵二字草墨。",
               "unresolved_spans": [],
-              "role": "colophon"
+              "role": "colophon",
+              "initial_unresolved_spans": []
             },
             {
               "id": "f048-R-2a",
@@ -28717,7 +28825,8 @@
       "ja": 3,
       "mul": 57
     },
-    "units_with_unresolved_glyphs": 49
+    "units_with_unresolved_glyphs": 48,
+    "reviewed_image_frames": 50
   },
   "manifest_sha256": "fad6809fc07f0cae721fc002831d153dd3776d7f11eff387a418c4155b2df75f",
   "rights": "https://rmda.kulib.kyoto-u.ac.jp/license_icon/free-license",

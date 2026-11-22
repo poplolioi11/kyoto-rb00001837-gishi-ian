@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 type: dataset
 title: '宜子醫案（京都大學富士川文庫 キ/20） / Gishi ian [Medical Case Records]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu

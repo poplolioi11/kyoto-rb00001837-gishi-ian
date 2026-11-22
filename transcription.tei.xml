@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. Source-image review compared independent observations with the initial transcription and records 96 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>京都大學富士川文庫 キ/20（RB00001837） <ref target="https://rmda.kulib.kyoto-u.ac.jp/item/rb00001837">Source catalogue</ref>
@@ -77,7 +77,7 @@
       </div>
       <div n="4" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p4">
         <div type="surface" n="right">
-          <ab type="marginal_note" n="f004-R-1" xml:id="u-f004-R-1" xml:lang="lzh">治癰後元通氣散也元應□末諸瘡之部</ab>
+          <ab type="marginal_note" n="f004-R-1" xml:id="u-f004-R-1" xml:lang="lzh">治癰復元通氣散也元應□末諸瘡之部</ab>
           <note type="editorial">右見返，貼右緣一列墨書，另有淡透</note>
         </div>
         <div type="surface" n="left">
@@ -86,7 +86,7 @@
           <ab type="contents_note" n="f004-L-2a" xml:id="u-f004-L-2a" xml:lang="lzh">附感冒</ab>
           <ab type="contents_note" n="f004-L-2b" xml:id="u-f004-L-2b" xml:lang="lzh">中寒</ab>
           <ab type="contents_note" n="f004-L-2c" xml:id="u-f004-L-2c" xml:lang="lzh">咳嗽付喘急</ab>
-          <ab type="contents" n="f004-L-3" xml:id="u-f004-L-3" xml:lang="lzh">瘟疫　内傷　霍亂　痢疾　泄瀉</ab>
+          <ab type="contents" n="f004-L-3" xml:id="u-f004-L-3" xml:lang="lzh">瘟疫　内傷　霍亂　瘧疾　泄瀉</ab>
           <ab type="contents" n="f004-L-4" xml:id="u-f004-L-4" xml:lang="lzh">痢疾　氣病　痰飲　悸怔　眩暈</ab>
           <ab type="contents" n="f004-L-5" xml:id="u-f004-L-5" xml:lang="lzh">健忘　頭痛　虚労　諸血症　汗症</ab>
           <ab type="contents" n="f004-L-6" xml:id="u-f004-L-6" xml:lang="lzh">腫脹　積聚　腹痛　呕吐　腸痛</ab>
@@ -146,7 +146,7 @@
       </div>
       <div n="6" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p6">
         <div type="surface" n="right">
-          <ab type="body" n="f006-R-1" xml:id="u-f006-R-1" xml:lang="lzh">四十余歳丈夫素肥白去年以来右手足疼痺大便秘結痰嗽脈沉</ab>
+          <ab type="body" n="f006-R-1" xml:id="u-f006-R-1" xml:lang="lzh">四十余歳丈夫素肥白去年以来右手足癈痺大便秘結痰嗽脈沉</ab>
           <ab type="body" n="f006-R-2" xml:id="u-f006-R-2" xml:lang="lzh">有力食倍常</ab>
           <ab type="prescription" n="f006-R-2a" xml:id="u-f006-R-2a" xml:lang="lzh">穿方　四君一　独活一　二陳一　灸六穴三里曲池風市</ab>
           <ab type="body" n="f006-R-3" xml:id="u-f006-R-3" xml:lang="lzh">五十余歳男子一両年患中風治而大半得験気也于時因請為客飲</ab>
@@ -175,7 +175,7 @@
           <ab type="body" n="f006-L-3" xml:id="u-f006-L-3" xml:lang="lzh">一方服之或于時進通聖</ab>
           <ab type="prescription" n="f006-L-3a" xml:id="u-f006-L-3a" xml:lang="lzh">万宝回春一</ab>
           <ab type="body" n="f006-L-4" xml:id="u-f006-L-4" xml:lang="lzh">男子六旬余歳素盛実無病一日臨人会飲酒過食翌日終日出不起傍</ab>
-          <ab type="body" n="f006-L-5" xml:id="u-f006-L-5" xml:lang="lzh">人未起哉問召無對仍親近候之喉中口鼻痰涎壅塞如鋸無言語診</ab>
+          <ab type="body" n="f006-L-5" xml:id="u-f006-L-5" xml:lang="lzh">人未起哉問否無對仍親近候之喉中口鼻痰涎壅塞如鋸無言語診</ab>
           <ab type="body" n="f006-L-6" xml:id="u-f006-L-6" xml:lang="lzh">脈滑大無力</ab>
           <ab type="prescription" n="f006-L-6a" xml:id="u-f006-L-6a" xml:lang="lzh">瓜蒂散</ab>
           <ab type="body" n="f006-L-7" xml:id="u-f006-L-7" xml:lang="lzh">吐痰数升気正言語蹇澁頭微痛痰涎盛右手足緩癈脈浮緩</ab>
@@ -187,7 +187,7 @@
           <ab type="body" n="f006-L-11" xml:id="u-f006-L-11" xml:lang="lzh">不省人事痰涎壅塞手足厥冷脈弦而緩諸医辞去于時考一方並服一貼</ab>
           <ab type="body" n="f006-L-12" xml:id="u-f006-L-12" xml:lang="lzh">忽蘇甦痰涎退去常人</ab>
           <ab type="prescription" n="f006-L-12a" xml:id="u-f006-L-12a" xml:lang="lzh">三生飲　退而請服薬　医王湯</ab>
-          <ab type="body" n="f006-L-13" xml:id="u-f006-L-13" xml:lang="lzh">老人瘦弱手足痺于時聖急脈左右倶虚弱而微大左結四動</ab>
+          <ab type="body" n="f006-L-13" xml:id="u-f006-L-13" xml:lang="lzh">老人瘦弱手足痺于時牽急脈左右倶虚弱而微大左結四動</ab>
           <ab type="prescription" n="f006-L-13a" xml:id="u-f006-L-13a" xml:lang="lzh">四物一</ab>
           <note type="editorial">中風案，夾細方藥</note>
         </div>
@@ -234,14 +234,14 @@
           <ab type="prescription" n="f007-L-5a" xml:id="u-f007-L-5a" xml:lang="lzh">小養気一</ab>
           <ab type="body" n="f007-L-6" xml:id="u-f007-L-6" xml:lang="lzh">用薬二貼大便通引飲壮熱譫言脈弦数有力</ab>
           <ab type="prescription" n="f007-L-6a" xml:id="u-f007-L-6a" xml:lang="lzh">黄連解毒一</ab>
-          <ab type="body" n="f007-L-7" xml:id="u-f007-L-7" xml:lang="lzh">壮歳男子卒発熱頭痛手足節痛腰背引痛煩渇吐嘔脈大有力</ab>
+          <ab type="body" n="f007-L-7" xml:id="u-f007-L-7" xml:lang="lzh">壮歳男子卒発熱頭痛手足節痛腰脊引痛煩渇吐嘔脈大有力</ab>
           <ab type="prescription" n="f007-L-7a" xml:id="u-f007-L-7a" xml:lang="lzh">柴葛解毒散</ab>
           <ab type="body" n="f007-L-8" xml:id="u-f007-L-8" xml:lang="lzh">用薬二日発熱頭痛等疾止煩渇引飲食遅少嘔吐甚脈浮大弦數</ab>
           <ab type="prescription" n="f007-L-8a" xml:id="u-f007-L-8a" xml:lang="lzh">参蘇飲　去二味</ab>
           <ab type="small_text" n="f007-L-9" xml:id="u-f007-L-9" xml:lang="lzh">主方　去一味　加三味</ab>
           <ab type="prescription" n="f007-L-9a" xml:id="u-f007-L-9a" xml:lang="lzh">小柴胡一　去田加葛　石芥等</ab>
           <ab type="body" n="f007-L-10" xml:id="u-f007-L-10" xml:lang="lzh">三十七八歳男患傷寒十四日他医治初症邪去至今寒熱往来日晡轉甚</ab>
-          <ab type="body" n="f007-L-11" xml:id="u-f007-L-11" xml:lang="lzh">耳聾耳黄黒譫言熱往来則眼赤熱退則不赤全不食大便不通八日脈弦</ab>
+          <ab type="body" n="f007-L-11" xml:id="u-f007-L-11" xml:lang="lzh">耳聾歯黒譫言熱往来則眼赤熱退則不赤全不食大便不通八日脈弦</ab>
           <ab type="prescription" n="f007-L-11a" xml:id="u-f007-L-11a" xml:lang="lzh">不換金正気散</ab>
           <ab type="body" n="f007-L-12" xml:id="u-f007-L-12" xml:lang="lzh">数手足冷</ab>
           <ab type="prescription" n="f007-L-12a" xml:id="u-f007-L-12a" xml:lang="lzh">大柴胡一</ab>
@@ -274,7 +274,7 @@
           <ab type="body" n="f008-R-10" xml:id="u-f008-R-10" xml:lang="lzh">用薬壮熱止煩渇止譫言止如平人脈浮弦次日及申刻増寒而後壮熱</ab>
           <ab type="body" n="f008-R-11" xml:id="u-f008-R-11" xml:lang="lzh">煩脈弦数</ab>
           <ab type="prescription" n="f008-R-11a" xml:id="u-f008-R-11a" xml:lang="lzh">清脾飲</ab>
-          <ab type="body" n="f008-R-12" xml:id="u-f008-R-12" xml:lang="lzh">三十余歳男子感風寒壮熱頭微痛手足倦怠脈弦五動余五六日不解用発</ab>
+          <ab type="body" n="f008-R-12" xml:id="u-f008-R-12" xml:lang="lzh">二十余歳男子感風寒壮熱頭微痛手足倦怠脈弦五動余五六日不解用発</ab>
           <ab type="prescription" n="f008-R-12a" xml:id="u-f008-R-12a" xml:lang="lzh">小養気一</ab>
           <ab type="prescription" n="f008-R-12b" xml:id="u-f008-R-12b" xml:lang="lzh">大柴胡一</ab>
           <ab type="body" n="f008-R-13" xml:id="u-f008-R-13" xml:lang="lzh">散剤増寒壮熱止毎日至日晡寒熱往来用小柴胡寒熱不退反而寒去熱</ab>
@@ -286,7 +286,7 @@
           <ab type="prescription" n="f008-L-1a" xml:id="u-f008-L-1a" xml:lang="lzh">合方　小柴胡一　升陽散</ab>
           <ab type="body" n="f008-L-2" xml:id="u-f008-L-2" xml:lang="lzh">壮歳男子去春傷寒三十余日漸快気異經百余日終不能勞右又飲</ab>
           <ab type="red_note" n="f008-L-2a" xml:id="u-f008-L-2a" xml:lang="lzh">傷寒後病</ab>
-          <ab type="body" n="f008-L-3" xml:id="u-f008-L-3" xml:lang="lzh">食失味腰胯無力于時微熱胸中怔悸脈虚緩</ab>
+          <ab type="body" n="f008-L-3" xml:id="u-f008-L-3" xml:lang="lzh">食失味腰脚無力于時微熱胸中怔悸脈虚緩</ab>
           <ab type="prescription" n="f008-L-3a" xml:id="u-f008-L-3a" xml:lang="lzh">双和散</ab>
           <ab type="body" n="f008-L-4" xml:id="u-f008-L-4" xml:lang="lzh">三十余歳男子感寒壮熱頭痛関節疼大便結小便赤微渇及于四日未</ab>
           <ab type="red_note" n="f008-L-4a" xml:id="u-f008-L-4a" xml:lang="lzh">風</ab>
@@ -316,7 +316,7 @@
           <ab type="body" n="f009-R-1" xml:id="u-f009-R-1" xml:lang="lzh">壮年歳婦人及于二三日頭痛発熱渾身疼痛難轉側引飲咳嗽脈緊</ab>
           <ab type="body" n="f009-R-2" xml:id="u-f009-R-2" xml:lang="lzh">数</ab>
           <ab type="prescription" n="f009-R-2a" xml:id="u-f009-R-2a" xml:lang="lzh">敗毒散亦可</ab>
-          <ab type="body" n="f009-R-3" xml:id="u-f009-R-3" xml:lang="lzh">用薬一貼出汗病症悉退微咳脈如故見手足頭面有赤色于時世間痘</ab>
+          <ab type="body" n="f009-R-3" xml:id="u-f009-R-3" xml:lang="lzh">用薬二貼出汗病症悉退微咳脈如故見手足頭面有赤色于時世間痘</ab>
           <ab type="body" n="f009-R-4" xml:id="u-f009-R-4" xml:lang="lzh">疹流行因兹問未痘瘡否婦人曰未也因疑佇</ab>
           <ab type="prescription" n="f009-R-4a" xml:id="u-f009-R-4a" xml:lang="lzh">升麻葛根一</ab>
           <ab type="body" n="f009-R-5" xml:id="u-f009-R-5" xml:lang="lzh">用薬一貼痘瘡果然而出全不食微咳手足冷脈弦二便順素肥白人也</ab>
@@ -324,7 +324,7 @@
           <ab type="body" n="f009-R-6" xml:id="u-f009-R-6" xml:lang="lzh">用薬三日痘瘡順食少進手足冷于時痰出</ab>
           <ab type="marginal_note" n="f009-R-6a" xml:id="u-f009-R-6a" xml:lang="lzh">出痘</ab>
           <ab type="body" n="f009-R-7" xml:id="u-f009-R-7" xml:lang="lzh">壮歳婦人正傷寒他医治之及十一日未解自盗汗無止寒熱往来煩渇引</ab>
-          <ab type="body" n="f009-R-8" xml:id="u-f009-R-8" xml:lang="lzh">飲引譫言妄語二便易利唇舌黄皆黒脈数無力</ab>
+          <ab type="body" n="f009-R-8" xml:id="u-f009-R-8" xml:lang="lzh">飲引譫言妄語二便易利唇舌歯皆黒脈数無力</ab>
           <ab type="prescription" n="f009-R-8a" xml:id="u-f009-R-8a" xml:lang="lzh">白虎一</ab>
           <ab type="body" n="f009-R-9" xml:id="u-f009-R-9" xml:lang="lzh">用薬六貼熱去大煩渇止脈数有力用此四貼病機解散</ab>
           <ab type="prescription" n="f009-R-9a" xml:id="u-f009-R-9a" xml:lang="lzh">合方　黄連解毒一　白虎一</ab>
@@ -370,7 +370,7 @@
           <ab type="body" n="f010-R-1" xml:id="u-f010-R-1" xml:lang="lzh">四日未解大小便及四五日不通</ab>
           <ab type="prescription" n="f010-R-1a" xml:id="u-f010-R-1a" xml:lang="lzh">敗毒散</ab>
           <ab type="body" n="f010-R-2" xml:id="u-f010-R-2" xml:lang="lzh">用薬三貼甚汗出病症愈求食罷薬翌日及日晡発熱渇飲脈弦数医</ab>
-          <ab type="body" n="f010-R-3" xml:id="u-f010-R-3" xml:lang="lzh">疑之過食飲妻療疾飲</ab>
+          <ab type="body" n="f010-R-3" xml:id="u-f010-R-3" xml:lang="lzh">疑之過食飲変癇疾歟</ab>
           <ab type="prescription" n="f010-R-3a" xml:id="u-f010-R-3a" xml:lang="lzh">小柴胡一加陳査芒</ab>
           <ab type="body" n="f010-R-4" xml:id="u-f010-R-4" xml:lang="lzh">用薬四日寒熱止食進脈浮無力頭眩</ab>
           <ab type="prescription" n="f010-R-4a" xml:id="u-f010-R-4a" xml:lang="lzh">四君子一</ab>
@@ -412,7 +412,7 @@
           <ab type="prescription" n="f010-L-11a" xml:id="u-f010-L-11a" xml:lang="lzh">大承気一</ab>
           <ab type="body" n="f010-L-12" xml:id="u-f010-L-12" xml:lang="lzh">用薬三貼便瀉数行脈洪大退而弦故病気同小便通</ab>
           <ab type="prescription" n="f010-L-12a" xml:id="u-f010-L-12a" xml:lang="lzh">黄連解毒或合方白虎一</ab>
-          <ab type="body" n="f010-L-13" xml:id="u-f010-L-13" xml:lang="lzh">二十余歳男七八日以前及夜半故譫言傍人驚問之兎未叫我乃医診之風</ab>
+          <ab type="body" n="f010-L-13" xml:id="u-f010-L-13" xml:lang="lzh">二十余歳男七八日以前及夜半故譫言傍人驚問之鬼未叱我乃医診之風</ab>
           <note type="editorial">傷寒案例與小字方藥</note>
         </div>
         <div type="surface" n="layout">
@@ -424,7 +424,7 @@
         <div type="surface" n="right">
           <ab type="body" n="f011-R-1" xml:id="u-f011-R-1" xml:lang="lzh">邪也不思治二日譫言止気正頭疼甚如追鑽于時乾呃全不食便秘脈弦遅</ab>
           <ab type="small_text" n="f011-R-2" xml:id="u-f011-R-2" xml:lang="lzh">主方</ab>
-          <ab type="body" n="f011-R-3" xml:id="u-f011-R-3" xml:lang="lzh">用薬三貼畢頭痛乾呃止欲求食唯腰痛甚難轉側渇手足指冷于時索挙</ab>
+          <ab type="body" n="f011-R-3" xml:id="u-f011-R-3" xml:lang="lzh">用薬三貼畢頭痛乾呃止欲求食唯腰痛甚難轉側渇手足指冷于時緊牽</ab>
           <ab type="prescription" n="f011-R-3a" xml:id="u-f011-R-3a" xml:lang="lzh">敗毒散</ab>
           <ab type="body" n="f011-R-4" xml:id="u-f011-R-4" xml:lang="lzh">脈浮五動</ab>
           <ab type="prescription" n="f011-R-4a" xml:id="u-f011-R-4a" xml:lang="lzh">独活一</ab>
@@ -451,7 +451,7 @@
           <ab type="body" n="f011-L-3" xml:id="u-f011-L-3" xml:lang="lzh">用薬二貼汗出病症皆退去脈浮弦熱未去微渇微咳</ab>
           <ab type="prescription" n="f011-L-3a" xml:id="u-f011-L-3a" xml:lang="lzh">小柴胡一</ab>
           <ab type="section_heading" n="f011-L-4" xml:id="u-f011-L-4" xml:lang="lzh">○中寒</ab>
-          <ab type="body" n="f011-L-5" xml:id="u-f011-L-5" xml:lang="lzh">壮歳男終夜勤番請甚覚感寒翌頭痛腰背支節疼痛項強悪寒</ab>
+          <ab type="body" n="f011-L-5" xml:id="u-f011-L-5" xml:lang="lzh">壮歳男終夜勤普請甚覚感寒翌頭痛腰背支節疼痛項強悪寒</ab>
           <ab type="body" n="f011-L-6" xml:id="u-f011-L-6" xml:lang="lzh">腹痛呕吐手足冷脈緊弦五動</ab>
           <ab type="prescription" n="f011-L-6a" xml:id="u-f011-L-6a" xml:lang="lzh">五積散</ab>
           <ab type="small_text" n="f011-L-6b" xml:id="u-f011-L-6b" xml:lang="ja">呕吐腹痛ニ心ヲツケヨ</ab>
@@ -489,12 +489,12 @@
           <ab type="prescription" n="f012-R-7a" xml:id="u-f012-R-7a" xml:lang="lzh">四君子一</ab>
           <ab type="body" n="f012-R-8" xml:id="u-f012-R-8" xml:lang="lzh">愈及今冬微咳不止胸中微痛飲食無味二便順脈弦</ab>
           <ab type="prescription" n="f012-R-8a" xml:id="u-f012-R-8a" xml:lang="lzh">合方　四君子一　三味一</ab>
-          <ab type="body" n="f012-R-9" xml:id="u-f012-R-9" xml:lang="lzh">用薬一七日後訴味微咳胸痛未止于時喀痰</ab>
+          <ab type="body" n="f012-R-9" xml:id="u-f012-R-9" xml:lang="lzh">用薬一七日欲食少味微咳胸痛未止于時喀痰</ab>
           <ab type="body" n="f012-R-10" xml:id="u-f012-R-10" xml:lang="lzh">三十七八歳男子禀受瘦体今日二日過遊入水網引従四日感風寒発熱</ab>
           <ab type="body" n="f012-R-11" xml:id="u-f012-R-11" xml:lang="lzh">頭痛手有潮熱盗汗甚頭微痛微咳嗽冷痰出大心痛微腹痛甚食無</ab>
           <ab type="body" n="f012-R-12" xml:id="u-f012-R-12" xml:lang="lzh">味大小便順脈浮緊五動</ab>
           <ab type="prescription" n="f012-R-12a" xml:id="u-f012-R-12a" xml:lang="lzh">四君子一　加芎前柴散</ab>
-          <ab type="body" n="f012-R-13" xml:id="u-f012-R-13" xml:lang="lzh">一男子事君気爵甚咳嗽頭痛寒熱往来診項強然如大初症十余日以</ab>
+          <ab type="body" n="f012-R-13" xml:id="u-f012-R-13" xml:lang="lzh">一男子事君気爵甚咳嗽頭痛寒熱往来診項強直如大初症十余日以</ab>
           <note type="editorial">咳嗽付喘急題，方藥及夾注</note>
         </div>
         <div type="surface" n="left">
@@ -532,7 +532,7 @@
       </div>
       <div n="13" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p13">
         <div type="surface" n="right">
-          <ab type="body" n="f013-R-1" xml:id="u-f013-R-1" xml:lang="mul">五十余歳婦人素瘦身常有積此四五ケ年以来発喘至冬月減至六月</ab>
+          <ab type="body" n="f013-R-1" xml:id="u-f013-R-1" xml:lang="mul">五十余歳婦人素瘦身常有積此四五ケ年以来発喘至亥月減至冬月</ab>
           <ab type="marginal_note" n="f013-R-1a" xml:id="u-f013-R-1a" xml:lang="ja">翌ニハ大調中□モヨケレド食不進□平胃散ヲ用テフラリトニテ□</ab>
           <ab type="body" n="f013-R-2" xml:id="u-f013-R-2" xml:lang="lzh">亦発昼夜吐痰帯血飲食都不進少少進</ab>
           <ab type="prescription" n="f013-R-2a" xml:id="u-f013-R-2a" xml:lang="lzh">平胃散</ab>
@@ -545,7 +545,7 @@
           <ab type="body" n="f013-R-6" xml:id="u-f013-R-6" xml:lang="lzh">十七歳女三月已来寒熱往来食不進咳嗽吐痰胸中痞澁便瀉二三行小</ab>
           <ab type="body" n="f013-R-7" xml:id="u-f013-R-7" xml:lang="lzh">便赤澁脈数有力</ab>
           <ab type="prescription" n="f013-R-7a" xml:id="u-f013-R-7a" xml:lang="lzh">瀉肺散</ab>
-          <ab type="body" n="f013-R-8" xml:id="u-f013-R-8" xml:lang="lzh">用薬十余貼病症大半減咳嗽不止食不進比則嗽止食進三倍</ab>
+          <ab type="body" n="f013-R-8" xml:id="u-f013-R-8" xml:lang="lzh">用薬十余貼病症大半減咳嗽不止食不進比前則嗽止食進三倍</ab>
           <ab type="prescription" n="f013-R-8a" xml:id="u-f013-R-8a" xml:lang="lzh">同方査宿実</ab>
           <ab type="body" n="f013-R-9" xml:id="u-f013-R-9" xml:lang="lzh">十七八歳女子常易感風寒咳嗽此四五日微咳微熱食如常于時頭額微</ab>
           <ab type="red_note" n="f013-R-9a" xml:id="u-f013-R-9a" xml:lang="lzh">額面眉間□</ab>
@@ -564,13 +564,13 @@
           <ab type="body" n="f013-L-2" xml:id="u-f013-L-2" xml:lang="lzh">用薬一貼病症悉退去脈弦細微咳不食二便澁滞微渇</ab>
           <ab type="prescription" n="f013-L-2a" xml:id="u-f013-L-2a" xml:lang="lzh">四君子一加実速陳</ab>
           <ab type="body" n="f013-L-3" xml:id="u-f013-L-3" xml:lang="lzh">二十四五歳男瘦去九月上旬弦頃卒感風寒頭痛微熱咳診脈微数連日</ab>
-          <ab type="body" n="f013-L-4" xml:id="u-f013-L-4" xml:lang="lzh">与参蘇飲二貼頭痛微熱脈倶全平而残症喘急甚唖耳聾鼻不聞香</ab>
+          <ab type="body" n="f013-L-4" xml:id="u-f013-L-4" xml:lang="lzh">与参蘇飲二貼頭痛微熱脈倶全平而残症喘急声唖耳聾鼻不聞香</ab>
           <ab type="body" n="f013-L-5" xml:id="u-f013-L-5" xml:lang="lzh">臭嗽則中脘腹皮微痛飲食順二便脈倶平也</ab>
           <ab type="prescription" n="f013-L-5a" xml:id="u-f013-L-5a" xml:lang="lzh">参蘇散</ab>
           <ab type="section_heading" n="f013-L-6" xml:id="u-f013-L-6" xml:lang="lzh">○中暑</ab>
           <ab type="body" n="f013-L-7" xml:id="u-f013-L-7" xml:lang="lzh">壮歳男頭痛壮熱煩渇脈浮弦数自汗不食及三日不解</ab>
           <ab type="prescription" n="f013-L-7a" xml:id="u-f013-L-7a" xml:lang="lzh">清暑益気一</ab>
-          <ab type="body" n="f013-L-8" xml:id="u-f013-L-8" xml:lang="lzh">用薬三四貼右病症病退翌日晚右症再起脈弦</ab>
+          <ab type="body" n="f013-L-8" xml:id="u-f013-L-8" xml:lang="lzh">用薬三四貼右病症減退翌日晚右症再起脈弦</ab>
           <ab type="prescription" n="f013-L-8a" xml:id="u-f013-L-8a" xml:lang="lzh">清脾飲</ab>
           <ab type="body" n="f013-L-9" xml:id="u-f013-L-9" xml:lang="lzh">二十余歳男感暑熱発熱頭痛引飲腹痛瀉行一日四五度栄衛不化不食</ab>
           <ab type="body" n="f013-L-10" xml:id="u-f013-L-10" xml:lang="lzh">浮大</ab>
@@ -595,7 +595,7 @@
           <ab type="body" n="f014-R-3" xml:id="u-f014-R-3" xml:lang="lzh">伏暑引飲口燥咽乾吐瀉皆治</ab>
           <ab type="small_text" n="f014-R-3a" xml:id="u-f014-R-3a" xml:lang="mul">葉朴帚一方□芎□</ab>
           <ab type="prescription" n="f014-R-3b" xml:id="u-f014-R-3b" xml:lang="lzh">香薷散</ab>
-          <ab type="body" n="f014-R-4" xml:id="u-f014-R-4" xml:lang="lzh">五十余歳男素嗜酒五月中旬以来腹痛渾身面目虚浮五月下旬腹満</ab>
+          <ab type="body" n="f014-R-4" xml:id="u-f014-R-4" xml:lang="lzh">五十余歳男素嗜酒五月中旬以来腹痛渾身面目虚浮五月下旬脹満</ab>
           <ab type="body" n="f014-R-5" xml:id="u-f014-R-5" xml:lang="lzh">吐瀉有積塊于時急痛寒熱往来煩渇引飲渾身微黄脈沉滑五動于</ab>
           <ab type="body" n="f014-R-6" xml:id="u-f014-R-6" xml:lang="lzh">時澁滞</ab>
           <ab type="small_text" n="f014-R-6a" xml:id="u-f014-R-6a" xml:lang="mul">治中香茹散香薷散ニハ□丸薬苓□□</ab>
@@ -646,7 +646,7 @@
           <ab type="prescription" n="f015-R-1a" xml:id="u-f015-R-1a" xml:lang="lzh">藿香正気散一</ab>
           <ab type="body" n="f015-R-2" xml:id="u-f015-R-2" xml:lang="lzh">用薬四貼病往同全無言大小便不通</ab>
           <ab type="prescription" n="f015-R-2a" xml:id="u-f015-R-2a" xml:lang="lzh">五苓散</ab>
-          <ab type="body" n="f015-R-3" xml:id="u-f015-R-3" xml:lang="lzh">用薬二貼小便通来自巳刻至午下刻二升全至申刻脈後知人事如平</ab>
+          <ab type="body" n="f015-R-3" xml:id="u-f015-R-3" xml:lang="lzh">用薬二貼小便通来自巳刻至午下刻二升全至申刻脈復知人事如平</ab>
           <ab type="body" n="f015-R-4" xml:id="u-f015-R-4" xml:lang="lzh">人諸人称奇異于時頭微痛不食用薬二貼調畢</ab>
           <ab type="prescription" n="f015-R-4a" xml:id="u-f015-R-4a" xml:lang="lzh">藿香正気散</ab>
           <ab type="body" n="f015-R-5" xml:id="u-f015-R-5" xml:lang="lzh">五十余歳男昼夜尽力無請不恐風雨増寒壮熱他医治愈不謹飲食腰</ab>
@@ -656,10 +656,10 @@
           <ab type="body" n="f015-R-9" xml:id="u-f015-R-9" xml:lang="lzh">時腰腿酸疼于時手指冷痺而不覚二便順脈沉細</ab>
           <ab type="prescription" n="f015-R-9a" xml:id="u-f015-R-9a" xml:lang="lzh">五苓散</ab>
           <ab type="body" n="f015-R-10" xml:id="u-f015-R-10" xml:lang="lzh">六余婦人城又之民女也去比十月嫁于當津路半而偊而歩行而去歴一日</ab>
-          <ab type="body" n="f015-R-11" xml:id="u-f015-R-11" xml:lang="lzh">発熱往来為耳聾耳為邵声音甚振而言不分明周身振而不能立大便少</ab>
+          <ab type="body" n="f015-R-11" xml:id="u-f015-R-11" xml:lang="lzh">発熱往来為耳聾為鄙声音振而言不分明周身振而不能立大便少</ab>
           <ab type="body" n="f015-R-12" xml:id="u-f015-R-12" xml:lang="lzh">瀉小便赤食減咽渇他医治而不験脈沉而熱数</ab>
           <ab type="prescription" n="f015-R-12a" xml:id="u-f015-R-12a" xml:lang="lzh">藿香正気散</ab>
-          <ab type="body" n="f015-R-13" xml:id="u-f015-R-13" xml:lang="lzh">二十三歳野子夏月至夜務農業入水無度須及十余日不食腹脹瘦里脈</ab>
+          <ab type="body" n="f015-R-13" xml:id="u-f015-R-13" xml:lang="lzh">十二三歳野子夏月昼夜務農業入水無度須及十余日不食腹脹瘦里脈</ab>
           <note type="editorial">中湿案例，方藥與夾注</note>
         </div>
         <div type="surface" n="left">
@@ -700,7 +700,7 @@
           <ab type="body" n="f016-R-2" xml:id="u-f016-R-2" xml:lang="lzh">六四五歳富人昨日食薬瓜甚飲而大過及夜中腹痛甚欲水不納脈弦緊数</ab>
           <ab type="small_text" n="f016-R-3" xml:id="u-f016-R-3" xml:lang="lzh">主方</ab>
           <ab type="prescription" n="f016-R-3a" xml:id="u-f016-R-3a" xml:lang="lzh">瓜蒂散</ab>
-          <ab type="body" n="f016-R-4" xml:id="u-f016-R-4" xml:lang="lzh">服薬二度得吐少時赤大便通手足煩熱煩渇腹微痛脈浮緩</ab>
+          <ab type="body" n="f016-R-4" xml:id="u-f016-R-4" xml:lang="lzh">服薬二度得吐少時亦大便通手足煩熱煩渇腹微痛脈浮緩</ab>
           <ab type="prescription" n="f016-R-4a" xml:id="u-f016-R-4a" xml:lang="lzh">桂苓甘露飲</ab>
           <ab type="body" n="f016-R-5" xml:id="u-f016-R-5" xml:lang="lzh">用薬一貼畢病症減平愈用薬已及五六日不食脈同</ab>
           <ab type="prescription" n="f016-R-5a" xml:id="u-f016-R-5a" xml:lang="lzh">補中益気一</ab>
@@ -724,11 +724,11 @@
           <ab type="body" n="f016-L-2" xml:id="u-f016-L-2" xml:lang="lzh">用薬一貼便瀉一二行腹痛大半退服薬止両日呕瀉未止脈弦于時嘔手足</ab>
           <ab type="body" n="f016-L-3" xml:id="u-f016-L-3" xml:lang="lzh">温和小便赤澁</ab>
           <ab type="prescription" n="f016-L-3a" xml:id="u-f016-L-3a" xml:lang="lzh">不換金正気散</ab>
-          <ab type="body" n="f016-L-4" xml:id="u-f016-L-4" xml:lang="lzh">二十余歳男素肥白一日食炙鱠翌日腹痛瀉下一二行腹痛自去及今五十余</ab>
+          <ab type="body" n="f016-L-4" xml:id="u-f016-L-4" xml:lang="lzh">二十余歳男素肥白一日食炙膾翌日腹痛瀉下一二行腹痛自去及今五十余</ab>
           <ab type="body" n="f016-L-5" xml:id="u-f016-L-5" xml:lang="lzh">日食物無味腸鳴腹脹脈弦気耗言語懶倦</ab>
           <ab type="prescription" n="f016-L-5a" xml:id="u-f016-L-5a" xml:lang="lzh">合方　四君子一　平胃散</ab>
           <ab type="body" n="f016-L-6" xml:id="u-f016-L-6" xml:lang="lzh">五十余歳男子素過食去六月進食魚鱠過食心胸疼痛針治不応痛甚</ab>
-          <ab type="body" n="f016-L-7" xml:id="u-f016-L-7" xml:lang="lzh">加七月中旬小腹右腫起如覆盂無病医謂定作腸癰治而腫起退去近来</ab>
+          <ab type="body" n="f016-L-7" xml:id="u-f016-L-7" xml:lang="lzh">加七月中旬小腹右腫起如覆盂無病医謂竟作腸癰治而腫起退去近来</ab>
           <ab type="body" n="f016-L-8" xml:id="u-f016-L-8" xml:lang="lzh">絶味全不食大便瀉昼夜六七行或血或如茶煎膏乾有呕消瘦脈弦濡五</ab>
           <ab type="body" n="f016-L-9" xml:id="u-f016-L-9" xml:lang="lzh">動</ab>
           <ab type="prescription" n="f016-L-9a" xml:id="u-f016-L-9a" xml:lang="lzh">九味　木冬縮朴苓　芍麦耳</ab>
@@ -771,18 +771,18 @@
           <note type="editorial">飲食案例，食柿和菓瓜上隅墨註</note>
         </div>
         <div type="surface" n="left">
-          <ab type="body" n="f017-L-1" xml:id="u-f017-L-1" xml:lang="lzh">服薬一貼畢気快遊戯園暮数行及申刻頭痛発熱呕吐前後無知覚診脈</ab>
+          <ab type="body" n="f017-L-1" xml:id="u-f017-L-1" xml:lang="lzh">服薬一貼畢気快遊戯圍碁数行及申刻頭痛発熱呕吐前後無知覚診脈</ab>
           <ab type="body" n="f017-L-2" xml:id="u-f017-L-2" xml:lang="lzh">数六動諸医怪病不快薬方欲朝明朝無無君臣倶諸服薬</ab>
           <ab type="prescription" n="f017-L-2a" xml:id="u-f017-L-2a" xml:lang="lzh">小柴胡一</ab>
           <ab type="body" n="f017-L-3" xml:id="u-f017-L-3" xml:lang="lzh">用薬二貼過亥刻病症退去如平日診脈有余力主云疑瘧病也医諸謂</ab>
           <ab type="body" n="f017-L-4" xml:id="u-f017-L-4" xml:lang="lzh">必瘧疾乃内外傷者也初治用薬気悔于未速効二治以益気悔于補</ab>
-          <ab type="body" n="f017-L-5" xml:id="u-f017-L-5" xml:lang="lzh">住邪気製一方用薬一貼病症全無再発</ab>
+          <ab type="body" n="f017-L-5" xml:id="u-f017-L-5" xml:lang="lzh">住邪気製一方用薬二貼病症全無再発</ab>
           <ab type="prescription" n="f017-L-5a" xml:id="u-f017-L-5a" xml:lang="lzh">穿方　平胃散四君子一　小柴胡一</ab>
           <ab type="body" n="f017-L-6" xml:id="u-f017-L-6" xml:lang="lzh">貴人素過食喜酸而色痿黄胸壅塞于時微痛二便順脈平</ab>
           <ab type="prescription" n="f017-L-6a" xml:id="u-f017-L-6a" xml:lang="lzh">平胃一</ab>
           <ab type="body" n="f017-L-7" xml:id="u-f017-L-7" xml:lang="lzh">用薬七八貼胸腹覚快大便秘結微渇</ab>
           <ab type="prescription" n="f017-L-7a" xml:id="u-f017-L-7a" xml:lang="lzh">同方　売枳葛</ab>
-          <ab type="body" n="f017-L-8" xml:id="u-f017-L-8" xml:lang="lzh">六余歳男臨于海遊食瓜菓飯家頭痛腹痛吐瀉煩渇腹脹喘急脈沉</ab>
+          <ab type="body" n="f017-L-8" xml:id="u-f017-L-8" xml:lang="lzh">六余歳男臨于漁遊食瓜菓飯家頭痛腹痛吐瀉煩渇腹脹喘急脈沉</ab>
           <ab type="body" n="f017-L-9" xml:id="u-f017-L-9" xml:lang="lzh">結手足温小便順</ab>
           <ab type="prescription" n="f017-L-9a" xml:id="u-f017-L-9a" xml:lang="lzh">合方　香茹散　五苓散</ab>
           <ab type="body" n="f017-L-10" xml:id="u-f017-L-10" xml:lang="lzh">用薬病症悉平愈脈虚緩沉細飲食無味難進心下痞満</ab>
@@ -816,7 +816,7 @@
           <ab type="small_text" n="f018-R-9a" xml:id="u-f018-R-9a" xml:lang="lzh">主方</ab>
           <ab type="prescription" n="f018-R-9b" xml:id="u-f018-R-9b" xml:lang="lzh">灸二処　調中益気一　脾兪則足三里</ab>
           <ab type="body" n="f018-R-10" xml:id="u-f018-R-10" xml:lang="lzh">五十許男従一両年以前毎五更胸痛至今不退三月以来毎朝乾呕夜臥不得</ab>
-          <ab type="body" n="f018-R-11" xml:id="u-f018-R-11" xml:lang="lzh">睡乍則盗汗如瀉于足煩熱微渇飲食無味消瘦大便後重小便赤脈弦数</ab>
+          <ab type="body" n="f018-R-11" xml:id="u-f018-R-11" xml:lang="lzh">眠々則盗汗如瀉于足煩熱微渇飲食無味消瘦大便後重小便赤脈弦数</ab>
           <ab type="small_text" n="f018-R-12" xml:id="u-f018-R-12" xml:lang="lzh">主方加一味</ab>
           <ab type="prescription" n="f018-R-12a" xml:id="u-f018-R-12a" xml:lang="lzh">灸膏肓　医王</ab>
           <ab type="body" n="f018-R-13" xml:id="u-f018-R-13" xml:lang="lzh">五十余歳男素嗜酒一両年全不飲酒食作倍大便或瀉或秘腹微痛小便頻数</ab>
@@ -838,7 +838,7 @@
           <ab type="prescription" n="f018-L-8a" xml:id="u-f018-L-8a" xml:lang="lzh">補中益気一</ab>
           <ab type="body" n="f018-L-9" xml:id="u-f018-L-9" xml:lang="lzh">用薬六七貼畢病症退自汗未止于時微咳</ab>
           <ab type="prescription" n="f018-L-9a" xml:id="u-f018-L-9a" xml:lang="lzh">同方去升麻加浮麦麻根</ab>
-          <ab type="body" n="f018-L-10" xml:id="u-f018-L-10" xml:lang="lzh">服薬二貼自汗咳癒雖食進難消化一両日有間而便瀉脈浮弦或一日有間便瀉二</ab>
+          <ab type="body" n="f018-L-10" xml:id="u-f018-L-10" xml:lang="lzh">服薬二貼自汗咳減雖食進難消化一両日有間而便瀉脈浮弦或一日有間便瀉二</ab>
           <ab type="body" n="f018-L-11" xml:id="u-f018-L-11" xml:lang="lzh">三行脈浮弦</ab>
           <ab type="small_text" n="f018-L-11a" xml:id="u-f018-L-11a" xml:lang="lzh">主方</ab>
           <ab type="prescription" n="f018-L-11b" xml:id="u-f018-L-11b" xml:lang="lzh">灸二穴</ab>
@@ -860,7 +860,7 @@
           <ab type="small_text" n="f019-R-02a" xml:id="u-f019-R-02a" xml:lang="lzh">升陽補氣一</ab>
           <ab type="body" n="f019-R-03" xml:id="u-f019-R-03" xml:lang="lzh">十七八歳男諸近年不世人受用茅今同行歸症同素肥白自近年瘦人氣減之常</ab>
           <ab type="body" n="f019-R-04" xml:id="u-f019-R-04" xml:lang="lzh">與減少世人同昔日喜色近年不喜閑節微痛于眩世受稱意則氣快不快意</ab>
-          <ab type="body" n="f019-R-05" xml:id="u-f019-R-05" xml:lang="lzh">則眼眩大便泄滯小便清利診脉浮軟于此加眩</ab>
+          <ab type="body" n="f019-R-05" xml:id="u-f019-R-05" xml:lang="lzh">則眼眩大便澁滯小便清利診脉浮軟于此加眩</ab>
           <ab type="small_text" n="f019-R-05a" xml:id="u-f019-R-05a" xml:lang="lzh">医王去升广／加紅柏</ab>
           <ab type="body" n="f019-R-06" xml:id="u-f019-R-06" xml:lang="lzh">食後頭上如押重鼻中熱眠重氣索然而重睛睫臥到團圓則快當煩世人不食</ab>
           <ab type="body" n="f019-R-07" xml:id="u-f019-R-07" xml:lang="mul">亦與不飲飲食常未刻右如氣蒙々而時々食物痞胸中飽過而後臨中胸中ヲコリ</ab>
@@ -922,7 +922,7 @@
           <ab type="body" n="f020-R-08" xml:id="u-f020-R-08" xml:lang="lzh">十四五歳男子七八日以前卒増寒壮熱頭痛他医治之而病様退進半滅于當二便順</ab>
           <ab type="body" n="f020-R-09" xml:id="u-f020-R-09" xml:lang="lzh">至今尤余日々晡微寒熱往来頭痛脉弦而動無力日晡有力</ab>
           <ab type="prescription" n="f020-R-09a" xml:id="u-f020-R-09a" xml:lang="lzh">合方　平胃文／小柴胡一</ab>
-          <ab type="body" n="f020-R-10" xml:id="u-f020-R-10" xml:lang="lzh">十七八男瘧疾三発頭痛手足節疼甚渴引飲胸膈煩悶不寧脉弦數結促用茅一帖</ab>
+          <ab type="body" n="f020-R-10" xml:id="u-f020-R-10" xml:lang="lzh">十七八男瘧疾二発頭痛手足節疼甚渴引飲胸膈煩悶不寧脉弦數結促用茅一帖</ab>
           <ab type="body" n="f020-R-11" xml:id="u-f020-R-11" xml:lang="lzh">如神</ab>
           <ab type="prescription" n="f020-R-11a" xml:id="u-f020-R-11a" xml:lang="lzh">瓜蒂文</ab>
           <ab type="body" n="f020-R-12" xml:id="u-f020-R-12" xml:lang="lzh">壮歳男子途中六七里飯家隔二日臥起来面目浮腫渾身手足浮腫如斗小便渋</ab>
@@ -938,7 +938,7 @@
           <ab type="body" n="f020-L-04" xml:id="u-f020-L-04" xml:lang="lzh">五余歳男去夏五月病瘧如數治断愈及今食無味日晡微寒熱自汗頭微痛微</ab>
           <ab type="body" n="f020-L-05" xml:id="u-f020-L-05" xml:lang="lzh">咳右脇下有塊脉遅及于日晡則脉浮弦有力小便清利大便順</ab>
           <ab type="prescription" n="f020-L-05a" xml:id="u-f020-L-05a" xml:lang="lzh">苓吸鱉甲一</ab>
-          <ab type="body" n="f020-L-06" xml:id="u-f020-L-06" xml:lang="lzh">壮歳男瘧疾三発大熱引飲頭痛脉洪</ab>
+          <ab type="body" n="f020-L-06" xml:id="u-f020-L-06" xml:lang="lzh">壮歳男瘧疾二発大熱引飲頭痛脉洪</ab>
           <ab type="prescription" n="f020-L-06a" xml:id="u-f020-L-06a" xml:lang="lzh">小柴胡一加常</ab>
           <ab type="body" n="f020-L-07" xml:id="u-f020-L-07" xml:lang="lzh">壮歳男去七月患瘧六七発愈以後至今食物倍常肥滿腹膨手足指微冷二便順</ab>
           <ab type="body" n="f020-L-08" xml:id="u-f020-L-08" xml:lang="lzh">脉浮弦遅</ab>
@@ -960,7 +960,7 @@
       </div>
       <div n="21" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p21">
         <div type="surface" n="right">
-          <ab type="body" n="f021-R-01" xml:id="u-f021-R-01" xml:lang="lzh">用茅二帖瀉止熱来腹脹痛咽乾不食小便泄</ab>
+          <ab type="body" n="f021-R-01" xml:id="u-f021-R-01" xml:lang="lzh">用茅二帖瀉止熱来腹脹痛口乾不食小便澁</ab>
           <ab type="prescription" n="f021-R-01a" xml:id="u-f021-R-01a" xml:lang="lzh">同　灸氣海</ab>
           <ab type="body" n="f021-R-02" xml:id="u-f021-R-02" xml:lang="lzh">五十余歳男泄瀉及尤余日未已昼夜四五行如傾盆飲食如常小便如常脉平</ab>
           <ab type="body" n="f021-R-03" xml:id="u-f021-R-03" xml:lang="lzh">和身重微渴</ab>
@@ -1011,7 +1011,7 @@
       </div>
       <div n="22" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p22">
         <div type="surface" n="right">
-          <ab type="body" n="f022-R-01" xml:id="u-f022-R-01" xml:lang="lzh">尤余歳男自今年六月患泄瀉昼夜四五行食則胸塞腹鳴至圊則怯吐咳</ab>
+          <ab type="body" n="f022-R-01" xml:id="u-f022-R-01" xml:lang="lzh">尤余歳男自今年六月患泄瀉昼夜四五行食則胸塞腹鳴至圊則怯吐咳々</ab>
           <ab type="body" n="f022-R-02" xml:id="u-f022-R-02" xml:lang="lzh">惡寒面浮腫体虚日羸瘦飲食無味減半矣</ab>
           <ab type="body" n="f022-R-03" xml:id="u-f022-R-03" xml:lang="lzh">香砂六君子一加藿香烏梅與十帖右病症過半愈漸食進至今惡心未</ab>
           <ab type="body" n="f022-R-04" xml:id="u-f022-R-04" xml:lang="mul">已脉虚弱無力</ab>
@@ -1106,7 +1106,7 @@
       <div n="24" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p24">
         <div type="surface" n="right">
           <ab type="body" n="f024-R-01" xml:id="u-f024-R-01" xml:lang="mul">尤余歳男肥白四五ケ年患痰証咽喉胸膈滯塞発則咽作痰声眩暈頭痛背痛</ab>
-          <ab type="body" n="f024-R-02" xml:id="u-f024-R-02" xml:lang="lzh">近年氣力衰世受懶診脉沉微細軟四動左微大右微小</ab>
+          <ab type="body" n="f024-R-02" xml:id="u-f024-R-02" xml:lang="lzh">近年氣力衰世事懶診脉沉微細軟四動左微大右微小</ab>
           <ab type="prescription" n="f024-R-02a" xml:id="u-f024-R-02a" xml:lang="lzh">二陳一／平胃文　四君子一</ab>
           <ab type="body" n="f024-R-03" xml:id="u-f024-R-03" xml:lang="lzh">壮歳婦人素盛實面赤喘氣脉沉濇</ab>
           <ab type="prescription" n="f024-R-03a" xml:id="u-f024-R-03a" xml:lang="lzh">蘇子降氣一</ab>
@@ -1117,7 +1117,7 @@
           <ab type="body" n="f024-R-07" xml:id="u-f024-R-07" xml:lang="lzh">而不住于行路則胸膈及右脇甚疼而不能轉側食如常二便同脉沉濡自云常也</ab>
           <ab type="body" n="f024-R-08" xml:id="u-f024-R-08" xml:lang="lzh">主方</ab>
           <ab type="prescription" n="f024-R-08a" xml:id="u-f024-R-08a" xml:lang="lzh">前烏藥順氣文　后異功文</ab>
-          <ab type="body" n="f024-R-09" xml:id="u-f024-R-09" xml:lang="lzh">四十三之男一兩年痰咽滯澁咯難去于時帯絲血氣無動頭重不食大便微結脉沉</ab>
+          <ab type="body" n="f024-R-09" xml:id="u-f024-R-09" xml:lang="lzh">卅三之男一兩年痰咽滯澁咯難去于時帯絲血氣無動頭重不食大便微結脉沉</ab>
           <ab type="body" n="f024-R-10" xml:id="u-f024-R-10" xml:lang="lzh">濇</ab>
           <ab type="prescription" n="f024-R-10a" xml:id="u-f024-R-10a" xml:lang="lzh">四七一</ab>
           <ab type="body" n="f024-R-11" xml:id="u-f024-R-11" xml:lang="lzh">四十余歳男平素有痰而七八日頭痛寒熱咳嗽甚俗医以茅二三帖汗少去心志與為</ab>
@@ -1211,7 +1211,7 @@
           <ab type="body" n="f026-R-04" xml:id="u-f026-R-04" xml:lang="lzh">壮歳婦女去春産了氣色不常医用數方數症愈至今心氣虚弱當受難動々則眩暈</ab>
           <ab type="body" n="f026-R-05" xml:id="u-f026-R-05" xml:lang="lzh">心悸不定脉軟細四動于時煩熱来則浮大有力或五動大便微瀉小便清利食無味</ab>
           <ab type="prescription" n="f026-R-05a" xml:id="u-f026-R-05a" xml:lang="lzh">妙香文</ab>
-          <ab type="body" n="f026-R-06" xml:id="u-f026-R-06" xml:lang="lzh">貴人務世受過多則眩暈不安</ab>
+          <ab type="body" n="f026-R-06" xml:id="u-f026-R-06" xml:lang="lzh">貴人務世事過多則眩暈不安</ab>
           <ab type="prescription" n="f026-R-06a" xml:id="u-f026-R-06a" xml:lang="lzh">同方</ab>
           <ab type="body" n="f026-R-07" xml:id="u-f026-R-07" xml:lang="lzh">男子素大食去春以来胸膈于時眩暈食減手足瘦脉弦世受聞不快則右症忽発如</ab>
           <ab type="body" n="f026-R-08" xml:id="u-f026-R-08" xml:lang="lzh">欲絶稍久而氣正</ab>
@@ -1308,7 +1308,7 @@
           <ab type="body" n="f028-R-04" xml:id="u-f028-R-04" xml:lang="lzh">熱盗汗微咳素虚弱細体脉于眩不食便瀉于時止驚悸于時眩暈</ab>
           <ab type="prescription" n="f028-R-04a" xml:id="u-f028-R-04a" xml:lang="lzh">保真一</ab>
           <ab type="body" n="f028-R-05" xml:id="u-f028-R-05" xml:lang="lzh">尤余歳肥女去年自十一月氣不快少食惡些少風寒口苦多黃水吐去惨々無力嗜臥漸大</ab>
-          <ab type="body" n="f028-R-06" xml:id="u-f028-R-06" xml:lang="lzh">瘦今年自二月初睡中汗多去當臍有動氣牢而于時痛光三日発熱鮮血多下加玉形精神</ab>
+          <ab type="body" n="f028-R-06" xml:id="u-f028-R-06" xml:lang="lzh">瘦今年自二月初臍中汗多出當臍有動氣牢而于時痛光三日発熱鮮血多下加玉形精神</ab>
           <ab type="body" n="f028-R-07" xml:id="u-f028-R-07" xml:lang="mul">甚衰頭眩難言脉細數無力右考病机則内傷ヨリ根シタル勞瘵之至極脉細數無力不治但</ab>
           <ab type="body" n="f028-R-08" xml:id="u-f028-R-08" xml:lang="lzh">他医可依茅療用茅誤飲疑妊孕初症茅療可為誤不治</ab>
           <ab type="prescription" n="f028-R-08a" xml:id="u-f028-R-08a" xml:lang="lzh">逍遥文</ab>
@@ -1349,7 +1349,7 @@
       </div>
       <div n="29" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p29">
         <div type="surface" n="right">
-          <ab type="body" n="f029-R-01" xml:id="u-f029-R-01" xml:lang="lzh">寒熱往来飲食失味二便不調支節痛面色痿黃于時微渴脉虚弦氣以難動</ab>
+          <ab type="body" n="f029-R-01" xml:id="u-f029-R-01" xml:lang="lzh">発熱往来飲食失味二便不調支節痛面色痿黃于時微渴脉虚弦氣以難動</ab>
           <ab type="prescription" n="f029-R-01a" xml:id="u-f029-R-01a" xml:lang="lzh">十全大補一</ab>
           <ab type="body" n="f029-R-02" xml:id="u-f029-R-02" xml:lang="lzh">○諸血証</ab>
           <ab type="body" n="f029-R-03" xml:id="u-f029-R-03" xml:lang="mul">十七八歳貴男皮層如常素嗜酒依病征禁止尤日已前吐血茶椀一許ヲ用犀角地黃湯大</ab>
@@ -1446,7 +1446,7 @@
       </div>
       <div n="31" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p31">
         <div type="surface" n="right">
-          <ab type="body" n="f031-R-01" xml:id="u-f031-R-01" xml:lang="mul">尤余歳婦素体瘦月受多少不定四ケ年已来痞塊臍大如椀于時動搖常微痛至夏</ab>
+          <ab type="body" n="f031-R-01" xml:id="u-f031-R-01" xml:lang="mul">尤余歳婦素体瘦月事多少不定四ケ年已来痞塊臍大如椀于時動搖常微痛至夏</ab>
           <ab type="body" n="f031-R-02" xml:id="u-f031-R-02" xml:lang="lzh">足心熱乾燥至冬甚冷喜吐咳于時眩暈大便少結小便順這出来咽喉不利食如常脉</ab>
           <ab type="body" n="f031-R-03" xml:id="u-f031-R-03" xml:lang="lzh">沉細而弱四動</ab>
           <ab type="prescription" n="f031-R-03a" xml:id="u-f031-R-03a" xml:lang="lzh">合方　大調中一／烏附通氣二　灸脾兪</ab>
@@ -1554,7 +1554,7 @@
           <ab type="body" n="f033-R-09" xml:id="u-f033-R-09" xml:lang="lzh">則如塊物有胸膈通上二時許鬱悶暫如有故而毎夜腹脹疼痛如蛟饑一也他医</ab>
           <ab type="body" n="f033-R-10" xml:id="u-f033-R-10" xml:lang="lzh">療之少得効今残症如右</ab>
           <ab type="prescription" n="f033-R-10a" xml:id="u-f033-R-10a" xml:lang="lzh">小調中一</ab>
-          <ab type="body" n="f033-R-11" xml:id="u-f033-R-11" xml:lang="lzh">○咽吐</ab>
+          <ab type="body" n="f033-R-11" xml:id="u-f033-R-11" xml:lang="lzh">○咆吐</ab>
           <ab type="body" n="f033-R-12" xml:id="u-f033-R-12" xml:lang="lzh">壮歳男素瘦黑無病去夏已来間二日或四日卒手足厥冷々々則必頭痛吐飲食吐</ab>
           <ab type="body" n="f033-R-13" xml:id="u-f033-R-13" xml:lang="lzh">尽則手足温氣正及今不愈診脉沉遅堅用茅十余日全平愈</ab>
           <ab type="prescription" n="f033-R-13a" xml:id="u-f033-R-13a" xml:lang="lzh">理中一</ab>
@@ -1580,7 +1580,7 @@
           <ab type="prescription" n="f033-L-10a" xml:id="u-f033-L-10a" xml:lang="lzh">同方加團玄芪</ab>
           <ab type="body" n="f033-L-11" xml:id="u-f033-L-11" xml:lang="lzh">老人叱小子怒甚及夜腹脹引陰囊急息煩渴脉浮大</ab>
           <ab type="prescription" n="f033-L-11a" xml:id="u-f033-L-11a" xml:lang="lzh">枳殻煮文</ab>
-          <ab type="body" n="f033-L-12" xml:id="u-f033-L-12" xml:lang="lzh">壮歳男応主命入山林蓬居七八年昼夜勤学去年以来胸膈疼痛于時発去正月下旬</ab>
+          <ab type="body" n="f033-L-12" xml:id="u-f033-L-12" xml:lang="lzh">壮歳男応主命入山林菴居七八年昼夜勤学去年以来胸膈疼痛于時発去正月下旬</ab>
           <ab type="body" n="f033-L-13" xml:id="u-f033-L-13" xml:lang="lzh">痛甚発起黑血吐去數椀痛斷止則而在乳上甚痛如有腫物半減大便秘右脉浮軟</ab>
         </div>
         <div type="surface" n="layout">
@@ -1614,7 +1614,7 @@
           <ab type="body" n="f034-L-01" xml:id="u-f034-L-01" xml:lang="lzh">煎来進一口不下咽則吐因知尤熱傷氣昂取水来茅入茅盞置冷水中得冷進一口不吐進二口能</ab>
           <ab type="body" n="f034-L-02" xml:id="u-f034-L-02" xml:lang="lzh">咽下翌日進粥能食</ab>
           <ab type="prescription" n="f034-L-02a" xml:id="u-f034-L-02a" xml:lang="lzh">枇杷葉文</ab>
-          <ab type="body" n="f034-L-03" xml:id="u-f034-L-03" xml:lang="lzh">十七八歳男体瘦色白從四五年以前時々腰痛去年冬腰痛卒陰囊腫痛至二月大如斗他医</ab>
+          <ab type="body" n="f034-L-03" xml:id="u-f034-L-03" xml:lang="lzh">十七八歳男体瘦色白從四五年以前時々腰痛去年冬腰痛卒陰囊腫痛至三月大如斗他医</ab>
           <ab type="body" n="f034-L-04" xml:id="u-f034-L-04" xml:lang="lzh">治而膿共去與然終不潰連々皮厚緊結至今不滅于時有痛于時惡寒常手足清冷食</ab>
           <ab type="body" n="f034-L-05" xml:id="u-f034-L-05" xml:lang="lzh">如常大便結或見血脉細四動</ab>
           <ab type="prescription" n="f034-L-05a" xml:id="u-f034-L-05a" xml:lang="lzh">十六味流氣欠</ab>
@@ -1647,7 +1647,7 @@
           <ab type="body" n="f035-R-05" xml:id="u-f035-R-05" xml:lang="lzh">方或応而食不応脉浮大則心氣快脉微沉則心氣不快而不食乃経水無行手足厥冷全</ab>
           <ab type="body" n="f035-R-06" xml:id="u-f035-R-06" xml:lang="lzh">不食</ab>
           <ab type="prescription" n="f035-R-06a" xml:id="u-f035-R-06a" xml:lang="lzh">理中一　痛冷症之</ab>
-          <ab type="body" n="f035-R-07" xml:id="u-f035-R-07" xml:lang="lzh">十七八歳女子心腹疼痛吐不入茅水及四五日數方無寸効脉弦數一帖半愈</ab>
+          <ab type="body" n="f035-R-07" xml:id="u-f035-R-07" xml:lang="lzh">十七八歳女子心腹病痛吐不入茅水及四五日數方無寸効脉弦數一帖半愈</ab>
           <ab type="prescription" n="f035-R-07a" xml:id="u-f035-R-07a" xml:lang="lzh">正氣天香一</ab>
           <ab type="body" n="f035-R-08" xml:id="u-f035-R-08" xml:lang="lzh">三十余歳男子食則心下痞滿臍腹隱痛脉緊濇</ab>
           <ab type="prescription" n="f035-R-08a" xml:id="u-f035-R-08a" xml:lang="lzh">木香化滯文</ab>
@@ -1707,7 +1707,7 @@
           <ab type="body" n="f036-R-13" xml:id="u-f036-R-13" xml:lang="lzh">壮歳婦人素肥白及三十未孕于時手足煩熱欲浸冷水一兩年以来渾身煩熱及日晡夜半</ab>
         </div>
         <div type="surface" n="left">
-          <ab type="body" n="f036-L-01" xml:id="u-f036-L-01" xml:lang="lzh">熱甚及日去則自安至無覺熱二便順食如常脉洪于時結滯</ab>
+          <ab type="body" n="f036-L-01" xml:id="u-f036-L-01" xml:lang="lzh">熱甚及日去則自安全無覺熱二便順食如常脉洪于時結滯</ab>
           <ab type="body" n="f036-L-02" xml:id="u-f036-L-02" xml:lang="lzh">旁方　四君子一　小調中　四順清冷二</ab>
           <ab type="body" n="f036-L-03" xml:id="u-f036-L-03" xml:lang="lzh">用茅八帖畢熱大半減氣清々脉弦頭痛加二味柴芎</ab>
           <ab type="body" n="f036-L-04" xml:id="u-f036-L-04" xml:lang="lzh">婦人素手足煩熱至夏弥益無熱苦大小便順脉平食如常于時微渴</ab>
@@ -1737,41 +1737,41 @@
           <ab type="marginal_note" n="f037-R-2a" xml:id="u-f037-R-2a" xml:lang="lzh">四順清凉飲　治血熱便秘脈実者及瘡疽初起□</ab>
           <ab type="marginal_note" n="f037-R-2b" xml:id="u-f037-R-2b" xml:lang="lzh">所□多□脩各五分入□</ab>
           <ab type="prescription" n="f037-R-2c" xml:id="u-f037-R-2c" xml:lang="lzh">四順清凉散</ab>
-          <ab type="body" n="f037-R-3" xml:id="u-f037-R-3" xml:lang="lzh">六余歳男子素肥白嗜酒去三月上旬赴宴飯家発熱頭痛吐三度頭痛発熱正快</ab>
-          <ab type="body" n="f037-R-4" xml:id="u-f037-R-4" xml:lang="lzh">気過於三日再発熱頭痛再発引飲甚他医治之平復食如常三月凡日已来及</ab>
+          <ab type="body" n="f037-R-3" xml:id="u-f037-R-3" xml:lang="lzh">廿余歳男子素肥白嗜酒去三月上旬赴宴飯家発熱頭痛吐三度頭痛発熱正快</ab>
+          <ab type="body" n="f037-R-4" xml:id="u-f037-R-4" xml:lang="lzh">気過於三日再発熱頭痛再発引飲甚他医治之平復食如常三月廿一日已来及</ab>
           <ab type="body" n="f037-R-5" xml:id="u-f037-R-5" xml:lang="lzh">日晡微寒微熱往来諸医雖加治不愈脈弦</ab>
           <ab type="prescription" n="f037-R-5a" xml:id="u-f037-R-5a" xml:lang="lzh">合方　小柴胡一　平胃散</ab>
           <ab type="body" n="f037-R-6" xml:id="u-f037-R-6" xml:lang="lzh">用薬十七八貼悉平愈病者云過食則必頭微痛臍下痛瀉三行痛去脈虚弦</ab>
           <ab type="cancelled_text" n="f037-R-7" xml:id="u-f037-R-7" xml:lang="lzh">来□</ab>
           <ab type="prescription" n="f037-R-7a" xml:id="u-f037-R-7a" xml:lang="lzh">合方　平胃散　四君子一　加柴芎</ab>
-          <ab type="body" n="f037-R-8" xml:id="u-f037-R-8" xml:lang="lzh">六歳男二月下旬以来朝熱往来不食唇舌乾燥頭痛脈弦有力五動</ab>
+          <ab type="body" n="f037-R-8" xml:id="u-f037-R-8" xml:lang="lzh">十八歳男二月下旬以来朝熱往来不食唇舌乾燥頭痛脈弦有力五動</ab>
           <ab type="prescription" n="f037-R-8a" xml:id="u-f037-R-8a" xml:lang="lzh">八味逍遥散</ab>
           <ab type="body" n="f037-R-9" xml:id="u-f037-R-9" xml:lang="lzh">十八九歳男自少事君昼夜侍近三年以来及春末発病状如往及病秋来得凉気則自</ab>
           <ab type="small_text" n="f037-R-9a" xml:id="u-f037-R-9a" xml:lang="lzh">四月上旬</ab>
           <ab type="body" n="f037-R-10" xml:id="u-f037-R-10" xml:lang="lzh">然愈今所苦者心煩熱増至朝後二三瀉飲食半減于時微渇脈緊五動及日晡浮大</ab>
           <ab type="prescription" n="f037-R-10a" xml:id="u-f037-R-10a" xml:lang="lzh">保真一</ab>
           <ab type="section_heading" n="f037-R-11" xml:id="u-f037-R-11" xml:lang="lzh">○狂病</ab>
-          <ab type="body" n="f037-R-12" xml:id="u-f037-R-12" xml:lang="lzh">壮歳男去冬以来発狂他医治而狂止于時発診脈右浮大有力左沉弦素肥白嗜酒胸膈</ab>
+          <ab type="body" n="f037-R-12" xml:id="u-f037-R-12" xml:lang="lzh">壮歳男去亥以来発狂他医治而狂止于時発診脈右浮大有力左沉弦素肥白嗜酒胸膈</ab>
           <ab type="body" n="f037-R-13" xml:id="u-f037-R-13" xml:lang="lzh">疼痛有痰涎</ab>
           <ab type="prescription" n="f037-R-13a" xml:id="u-f037-R-13a" xml:lang="lzh">小調中一</ab>
           <note type="editorial">前篇續文、狂病始；右欄短墨文有刪畫</note>
         </div>
         <div type="surface" n="left">
-          <ab type="body" n="f037-L-1" xml:id="u-f037-L-1" xml:lang="lzh">六余歳男素肥白高利之向有志学両充暦以前咳嗽他医治而大半愈而再発作労虚</ab>
+          <ab type="body" n="f037-L-1" xml:id="u-f037-L-1" xml:lang="lzh">廿余歳男素肥白高利之向有志学両充暦以前咳嗽他医治而大半愈而再発作労虚</ab>
           <ab type="body" n="f037-L-2" xml:id="u-f037-L-2" xml:lang="lzh">而治不愈于時大怒而打傷人従此以后無言無答他医治而或有言如痴且拾坐席之</ab>
           <ab type="body" n="f037-L-3" xml:id="u-f037-L-3" xml:lang="lzh">汗不止疑邪崇体瘦面目浮腫大便秘結小便食如常脈沉遅与分心気飲六鬱一</ab>
           <ab type="body" n="f037-L-4" xml:id="u-f037-L-4" xml:lang="lzh">不数十貼不得寸効于時不能眠脈沉而五動</ab>
           <ab type="prescription" n="f037-L-4a" xml:id="u-f037-L-4a" xml:lang="lzh">十全大補一加神麯烏薬</ab>
           <ab type="section_heading" n="f037-L-5" xml:id="u-f037-L-5" xml:lang="lzh">○□症</ab>
           <ab type="marginal_note" n="f037-L-5a" xml:id="u-f037-L-5a" xml:lang="lzh">古曰□又□耳中□不愈□</ab>
-          <ab type="body" n="f037-L-6" xml:id="u-f037-L-6" xml:lang="lzh">六八九歳男素瘦黒十年以前卒傷気絶三度有三四年而卒左耳甚痛寒熱往来及</ab>
+          <ab type="body" n="f037-L-6" xml:id="u-f037-L-6" xml:lang="lzh">廿八九歳男素瘦黒十年以前落馬気絶二三度有三四年而卒左耳甚痛寒熱往来及</ab>
           <ab type="body" n="f037-L-7" xml:id="u-f037-L-7" xml:lang="lzh">八九日不応医薬自以温湯洗之痛覚少減如此十余日而自耳中出赤膿水綿綿自三</ab>
           <ab type="body" n="f037-L-8" xml:id="u-f037-L-8" xml:lang="lzh">月上旬至八月中旬而不止以内外医療次月紀見熊野竜神一治三七日飯家而頭重上</ab>
           <ab type="body" n="f037-L-9" xml:id="u-f037-L-9" xml:lang="lzh">盛下虚而于時眩暈矣因以前之泉湯因為寒而前症出失因有遂馬湯治而前症悉</ab>
           <ab type="body" n="f037-L-10" xml:id="u-f037-L-10" xml:lang="lzh">愈此男常嗜酒過酒而寝卒驚而吐逆沫直視手足搐暫時醒如故至今一月一発必</ab>
-          <ab type="body" n="f037-L-11" xml:id="u-f037-L-11" xml:lang="lzh">於夜同魚加諸治無寸効</ab>
+          <ab type="body" n="f037-L-11" xml:id="u-f037-L-11" xml:lang="lzh">於夜間魚加諸治無寸効</ab>
           <ab type="prescription" n="f037-L-11a" xml:id="u-f037-L-11a" xml:lang="lzh">藿正気散</ab>
-          <ab type="section_heading" n="f037-L-12" xml:id="u-f037-L-12" xml:lang="lzh">○斑疹</ab>
+          <ab type="section_heading" n="f037-L-12" xml:id="u-f037-L-12" xml:lang="lzh">○班疹</ab>
           <ab type="body" n="f037-L-13" xml:id="u-f037-L-13" xml:lang="lzh">一男子初冬卒面生赤班如丹毒如血風如紫雲于時痒或時発起如小豆如火光考妙方如左</ab>
           <note type="editorial">狂病續案、○□症、斑疹</note>
         </div>
@@ -1788,7 +1788,7 @@
           <ab type="body" n="f038-R-3" xml:id="u-f038-R-3" xml:lang="lzh">完如故至今一日一発二日一発如右発常胸塞頭重朦々而不楽月水或前后或減少或無</ab>
           <ab type="body" n="f038-R-4" xml:id="u-f038-R-4" xml:lang="lzh">食無味半減大小便如常脈虚</ab>
           <ab type="prescription" n="f038-R-4a" xml:id="u-f038-R-4a" xml:lang="lzh">八味逍遥散</ab>
-          <ab type="section_heading" n="f038-R-5" xml:id="u-f038-R-5" xml:lang="lzh">○痘病</ab>
+          <ab type="section_heading" n="f038-R-5" xml:id="u-f038-R-5" xml:lang="lzh">○痓病</ab>
           <ab type="body" n="f038-R-6" xml:id="u-f038-R-6" xml:lang="lzh">四十歳男素嗜酒面色痿黄去年十月項強頭痛他医治而過半愈當年初夏来如旧発又如</ab>
           <ab type="body" n="f038-R-7" xml:id="u-f038-R-7" xml:lang="lzh">寒熱往来二便結食日減項強甚而角弓如反張于時眩暈又十余日已前右頬腫退寒熱</ab>
           <ab type="body" n="f038-R-8" xml:id="u-f038-R-8" xml:lang="lzh">二便順気無項強甚今也心神恍惚動作懶</ab>
@@ -1798,8 +1798,8 @@
           <ab type="small_text" n="f038-R-10a" xml:id="u-f038-R-10a" xml:lang="lzh">五月下旬</ab>
           <ab type="body" n="f038-R-11" xml:id="u-f038-R-11" xml:lang="lzh">今不退多無腫痛気鬱々不快脈沉滑</ab>
           <ab type="prescription" n="f038-R-11a" xml:id="u-f038-R-11a" xml:lang="lzh">十六味流気飲</ab>
-          <ab type="body" n="f038-R-12" xml:id="u-f038-R-12" xml:lang="lzh">六余歳男子四五歳時有結喉之下缺盆中間腫物如青梅無痛痒外科診名気腫治</ab>
-          <ab type="body" n="f038-R-13" xml:id="u-f038-R-13" xml:lang="lzh">愈去月六六日之比卒悪寒上気両足冷至六八日右眼下腫発痛痒他医用敗毒散或荊</ab>
+          <ab type="body" n="f038-R-12" xml:id="u-f038-R-12" xml:lang="lzh">廿余歳男子四五歳時有結喉之下缺盆中間腫物如青梅無痛痒外科診名気腫治</ab>
+          <ab type="body" n="f038-R-13" xml:id="u-f038-R-13" xml:lang="lzh">愈去月廿六日之比卒悪寒上気両足冷至廿八日右眼下腫発痛痒他医用敗毒散或荊</ab>
           <note type="editorial">斑疹續文、痘病及結核</note>
         </div>
         <div type="surface" n="left">
@@ -1819,7 +1819,7 @@
           <ab type="body" n="f038-L-9" xml:id="u-f038-L-9" xml:lang="lzh">六余歳男子自四月上旬患淋病莖中甚痛澁而聞有膿度如常他医与五淋散十貼無験已後</ab>
           <ab type="body" n="f038-L-10" xml:id="u-f038-L-10" xml:lang="lzh">医王与七八貼八正散四五貼病症同前</ab>
           <ab type="prescription" n="f038-L-10a" xml:id="u-f038-L-10a" xml:lang="lzh">火府丹</ab>
-          <ab type="body" n="f038-L-11" xml:id="u-f038-L-11" xml:lang="lzh">六七八歳下人素盛実常労役于山野不恐寒湿去夏六月下旬卒患血淋間痛牽引</ab>
+          <ab type="body" n="f038-L-11" xml:id="u-f038-L-11" xml:lang="lzh">廿七八歳下人素盛実常労役于山野不恐寒湿去夏六月下旬卒患血淋間痛牽引</ab>
           <ab type="body" n="f038-L-12" xml:id="u-f038-L-12" xml:lang="lzh">小腹他医治之無寸効其所診翌春三月下旬血色黒淋痛増益脈沉緩有力無他症考一</ab>
           <ab type="body" n="f038-L-13" xml:id="u-f038-L-13" xml:lang="lzh">方令服淋痛平復甚奇</ab>
           <ab type="prescription" n="f038-L-13a" xml:id="u-f038-L-13a" xml:lang="lzh">小剤飲子</ab>
@@ -1839,7 +1839,7 @@
           <ab type="body" n="f039-R-4" xml:id="u-f039-R-4" xml:lang="lzh">湿症因飲食因薬力作瀉痛仍減去</ab>
           <ab type="prescription" n="f039-R-4a" xml:id="u-f039-R-4a" xml:lang="lzh">去呉茱加沢苓</ab>
           <ab type="section_heading" n="f039-R-5" xml:id="u-f039-R-5" xml:lang="lzh">○秘結</ab>
-          <ab type="body" n="f039-R-6" xml:id="u-f039-R-6" xml:lang="lzh">六余歳婦人卒悪寒或有熱大便秘結十余日</ab>
+          <ab type="body" n="f039-R-6" xml:id="u-f039-R-6" xml:lang="lzh">廿余歳婦人卒悪寒或有熱大便秘結十余日</ab>
           <ab type="prescription" n="f039-R-6a" xml:id="u-f039-R-6a" xml:lang="lzh">合方　四物小柴胡合而与之次日愈矣</ab>
           <ab type="section_heading" n="f039-R-7" xml:id="u-f039-R-7" xml:lang="lzh">○断</ab>
           <ab type="small_text" n="f039-R-7a" xml:id="u-f039-R-7a" xml:lang="lzh">附口舌</ab>
@@ -1848,7 +1848,7 @@
           <ab type="body" n="f039-R-9" xml:id="u-f039-R-9" xml:lang="lzh">室女素富家常進厚味也肥白一日頭面発熱牙断断腫痛翌日頭面悉赤脈浮而有力食如</ab>
           <ab type="body" n="f039-R-10" xml:id="u-f039-R-10" xml:lang="lzh">常大小便順于時発渇引飲</ab>
           <ab type="prescription" n="f039-R-10a" xml:id="u-f039-R-10a" xml:lang="lzh">清胃散　散□</ab>
-          <ab type="body" n="f039-R-11" xml:id="u-f039-R-11" xml:lang="lzh">貴人六余歳素嗜酒飲食肥白口舌赤爛或生瘡如飲食大便順脈滑月清凉薬患症益</ab>
+          <ab type="body" n="f039-R-11" xml:id="u-f039-R-11" xml:lang="lzh">貴人廿余歳素嗜酒飲食肥白口舌赤爛或生瘡如飲食大便順脈滑月清凉薬患症益</ab>
           <ab type="body" n="f039-R-12" xml:id="u-f039-R-12" xml:lang="lzh">不快脈浮</ab>
           <ab type="prescription" n="f039-R-12a" xml:id="u-f039-R-12a" xml:lang="lzh">医王加干姜</ab>
           <ab type="section_heading" n="f039-R-13" xml:id="u-f039-R-13" xml:lang="lzh">○眼目</ab>
@@ -1856,12 +1856,12 @@
         </div>
         <div type="surface" n="left">
           <ab type="body" n="f039-L-1" xml:id="u-f039-L-1" xml:lang="lzh">風熱上攻眼赤腫雑痛難忍一人老婦一人壮男同一方平愈</ab>
-          <ab type="prescription" n="f039-L-1a" xml:id="u-f039-L-1a" xml:lang="lzh">洗眼散　煎□</ab>
+          <ab type="prescription" n="f039-L-1a" xml:id="u-f039-L-1a" xml:lang="lzh">洗眼文　散し</ab>
           <ab type="body" n="f039-L-2" xml:id="u-f039-L-2" xml:lang="lzh">壮歳婦人生一子后及五年無産至水次来于時煩熱生産已后両眼胞赤爛終不愈食</ab>
           <ab type="body" n="f039-L-3" xml:id="u-f039-L-3" xml:lang="lzh">如常于時大便秘脈弦細五動身体皆常瘦</ab>
           <ab type="prescription" n="f039-L-3a" xml:id="u-f039-L-3a" xml:lang="lzh">清胃散</ab>
           <ab type="section_heading" n="f039-L-4" xml:id="u-f039-L-4" xml:lang="lzh">○諸瘡</ab>
-          <ab type="body" n="f039-L-5" xml:id="u-f039-L-5" xml:lang="lzh">六余歳男子臀生腫物大如手盂堅硬甚疼痛七八日脈緊濡</ab>
+          <ab type="body" n="f039-L-5" xml:id="u-f039-L-5" xml:lang="lzh">廿余歳男子臀生腫物大如手盂堅硬甚疼痛七八日脈緊濡</ab>
           <ab type="prescription" n="f039-L-5a" xml:id="u-f039-L-5a" xml:lang="lzh">内托羗活一</ab>
           <ab type="body" n="f039-L-6" xml:id="u-f039-L-6" xml:lang="lzh">六余歳丈夫患癘此頃渾身生癘腫痛甚用薬四貼瘡癘悉愈</ab>
           <ab type="prescription" n="f039-L-6a" xml:id="u-f039-L-6a" xml:lang="lzh">前後乾通気散　□</ab>
@@ -1875,7 +1875,7 @@
           <ab type="body" n="f039-L-11" xml:id="u-f039-L-11" xml:lang="lzh">壮歳男子常患瘡癘當年癘甚多出渾身七八十癘小而不大疼痛難忍大便閉実小</ab>
           <ab type="body" n="f039-L-12" xml:id="u-f039-L-12" xml:lang="lzh">便順于時微熱頭少痛食如常脈浮大有力</ab>
           <ab type="prescription" n="f039-L-12a" xml:id="u-f039-L-12a" xml:lang="lzh">防風通聖散</ab>
-          <ab type="body" n="f039-L-13" xml:id="u-f039-L-13" xml:lang="lzh">四十余歳男脊背癰腫及十余日疼痛甚腫色紅赤二便順食物如常脈弦急</ab>
+          <ab type="body" n="f039-L-13" xml:id="u-f039-L-13" xml:lang="lzh">四十余歳男発背瘡腫及十余日疼痛甚腫色紅赤二便順食物如常脈弦急</ab>
           <ab type="prescription" n="f039-L-13a" xml:id="u-f039-L-13a" xml:lang="lzh">内托散</ab>
           <note type="editorial">眼目續文及諸瘡</note>
         </div>
@@ -1887,26 +1887,26 @@
       <div n="40" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p40">
         <div type="surface" n="right">
           <ab type="body" n="f040-R-1" xml:id="u-f040-R-1" xml:lang="lzh">十七八歳男去夏以来遍身生小瘡痛痒不常于時増寒多用諸方無寸効頃復手足増</ab>
-          <ab type="body" n="f040-R-2" xml:id="u-f040-R-2" xml:lang="lzh">瘡甚痒腹上有膿如色豆手足乾瘡小而如鱗脈緊数大便秘腹脹食無妨</ab>
+          <ab type="body" n="f040-R-2" xml:id="u-f040-R-2" xml:lang="lzh">瘡甚痒腹上有膿如泡豆手足乾瘡小而如鱗脈緊数大便秘腹脹食無妨</ab>
           <ab type="prescription" n="f040-R-2a" xml:id="u-f040-R-2a" xml:lang="lzh">升麻和気飲</ab>
           <ab type="body" n="f040-R-3" xml:id="u-f040-R-3" xml:lang="lzh">四十余歳男春至今胸膈痛或痛止走于肩背股肋便秘微核飲食無妨気滞則増痛不</ab>
           <ab type="body" n="f040-R-4" xml:id="u-f040-R-4" xml:lang="lzh">食于時両目虚浮二三日以背旅日痛腫起如手足大又疼痛矣脈沉弦有力五者欲成</ab>
           <ab type="red_note" n="f040-R-4a" xml:id="u-f040-R-4a" xml:lang="lzh">腫</ab>
           <ab type="body" n="f040-R-5" xml:id="u-f040-R-5" xml:lang="lzh">癰欤疑似</ab>
           <ab type="prescription" n="f040-R-5a" xml:id="u-f040-R-5a" xml:lang="lzh">蜜流気飲</ab>
-          <ab type="body" n="f040-R-6" xml:id="u-f040-R-6" xml:lang="lzh">六余歳下女従十二三年以来喘急渾身浮腫二便澁頭瘡多生十九歳時患風毒腫九年</ab>
+          <ab type="body" n="f040-R-6" xml:id="u-f040-R-6" xml:lang="lzh">廿余歳下女従十二三年以前喘息渾身浮腫二便澁頭瘡多生十九歳時患風毒腫九年</ab>
           <ab type="body" n="f040-R-7" xml:id="u-f040-R-7" xml:lang="lzh">以来多思慮上気頭痛厥冷右偏従胸堅物至李肋挙痛亦従胸至臍下牽痛亦胸膈</ab>
           <ab type="red_note" n="f040-R-7a" xml:id="u-f040-R-7a" xml:lang="lzh">喘</ab>
           <ab type="prescription" n="f040-R-7b" xml:id="u-f040-R-7b" xml:lang="lzh">防風通聖散</ab>
           <ab type="body" n="f040-R-8" xml:id="u-f040-R-8" xml:lang="lzh">如物攪項似熱常大便結小便通利則陥中熱月水不通常少喘急発則喘促頻而有</ab>
-          <ab type="body" n="f040-R-9" xml:id="u-f040-R-9" xml:lang="lzh">疾凡日一発則三日而愈重発則二日愈脈寸浮微尺伏</ab>
+          <ab type="body" n="f040-R-9" xml:id="u-f040-R-9" xml:lang="lzh">疾六七日一発則三日而愈重発則二日愈脈寸浮微尺伏</ab>
           <ab type="prescription" n="f040-R-9a" xml:id="u-f040-R-9a" xml:lang="lzh">五香連翹一</ab>
           <ab type="body" n="f040-R-10" xml:id="u-f040-R-10" xml:lang="lzh">十四五歳女子手足発小瘡甚痒一夕用熱一澁萬已快次日頭面渾身浮腫眼不用脈沉実</ab>
           <ab type="body" n="f040-R-11" xml:id="u-f040-R-11" xml:lang="lzh">二便順食如常</ab>
           <ab type="prescription" n="f040-R-11a" xml:id="u-f040-R-11a" xml:lang="lzh">合方　敗毒散　赤小豆一</ab>
-          <ab type="body" n="f040-R-12" xml:id="u-f040-R-12" xml:lang="lzh">六余歳女人渾身発小瘡斯頭面壅滞頭少痛耳鳴眩暈項急脈弦</ab>
+          <ab type="body" n="f040-R-12" xml:id="u-f040-R-12" xml:lang="lzh">廿余歳女人渾身発小瘡斯頭面壅滞頭少痛耳鳴眩暈項急脈弦</ab>
           <ab type="prescription" n="f040-R-12a" xml:id="u-f040-R-12a" xml:lang="lzh">消風散</ab>
-          <ab type="body" n="f040-R-13" xml:id="u-f040-R-13" xml:lang="lzh">六余歳婦人素盛実飲食進無所苦者毎年患瘡癘大如桃如楊核如豆面肩背手足腹上</ab>
+          <ab type="body" n="f040-R-13" xml:id="u-f040-R-13" xml:lang="lzh">廿余歳婦人素盛実飲食進無所苦者毎年患瘡癘大如桃如楊核如豆面肩背手足腹上</ab>
           <note type="editorial">諸瘡續案，朱注「腫」「喘」</note>
         </div>
         <div type="surface" n="left">
@@ -1925,7 +1925,7 @@
           <ab type="body" n="f040-L-10" xml:id="u-f040-L-10" xml:lang="lzh">食小便赤脈浮洪八動許与用黄連解毒一五貼而膊痛半退他如前尚同前二貼用</ab>
           <ab type="prescription" n="f040-L-10a" xml:id="u-f040-L-10a" xml:lang="lzh">升陽益胃一</ab>
           <ab type="body" n="f040-L-11" xml:id="u-f040-L-11" xml:lang="lzh">而便泄頻数発熱譫語甚脈動同而無力</ab>
-          <ab type="body" n="f040-L-12" xml:id="u-f040-L-12" xml:lang="lzh">六十歳女素瘦人身色白十年以来左手掌心如馬皮厚而白如鼓次才去後赤如綿裏</ab>
+          <ab type="body" n="f040-L-12" xml:id="u-f040-L-12" xml:lang="lzh">六十歳女素瘦人身色黒十年以来左手掌心如馬皮厚而白如鼓次才去後赤如綿裏</ab>
           <ab type="body" n="f040-L-13" xml:id="u-f040-L-13" xml:lang="lzh">朱常痛矣愈亦経十日許如前発毎歳六七次本道外医湯治其外尽妙術雖治之不</ab>
           <note type="editorial">諸瘡續案及方名</note>
         </div>
@@ -1939,7 +1939,7 @@
           <ab type="body" n="f041-R-1" xml:id="u-f041-R-1" xml:lang="lzh">寸効寒則痛甚二便順食進</ab>
           <ab type="prescription" n="f041-R-1a" xml:id="u-f041-R-1a" xml:lang="lzh">穿方　何首烏散乳香定痛散</ab>
           <ab type="small_text" n="f041-R-1b" xml:id="u-f041-R-1b" xml:lang="lzh">必応談散</ab>
-          <ab type="body" n="f041-R-2" xml:id="u-f041-R-2" xml:lang="lzh">十三歳童子天性手足脈生瘡痛痒及至頸生小癘痛甚大便結滞脈浮数</ab>
+          <ab type="body" n="f041-R-2" xml:id="u-f041-R-2" xml:lang="lzh">十三歳童子天性手足脛生瘡痛痒及至頸生小癘痛甚大便結滞脈浮数</ab>
           <ab type="prescription" n="f041-R-2a" xml:id="u-f041-R-2a" xml:lang="lzh">防風通聖散</ab>
           <ab type="body" n="f041-R-3" xml:id="u-f041-R-3" xml:lang="lzh">四十余歳男非肥非瘦六余歳之頃瘰患癘治療之愈経於十余日悉減六歳之比瘰病卒</ab>
           <ab type="body" n="f041-R-4" xml:id="u-f041-R-4" xml:lang="lzh">患便毒瘰医治之退経一二年愈而去五月頃陥至于時痛于時痒至十二三日腫頭如粟粒</ab>
@@ -1971,7 +1971,7 @@
           <ab type="prescription" n="f041-L-6a" xml:id="u-f041-L-6a" xml:lang="lzh">復元通気一</ab>
           <ab type="section_heading" n="f041-L-7" xml:id="u-f041-L-7" xml:lang="lzh">婦人門</ab>
           <ab type="section_heading" n="f041-L-8" xml:id="u-f041-L-8" xml:lang="lzh">○調経</ab>
-          <ab type="body" n="f041-L-9" xml:id="u-f041-L-9" xml:lang="lzh">六七八歳貴女禀受虚弱一両年以来有姙孕終不能養胎去歳十二月末小産今来経</ab>
+          <ab type="body" n="f041-L-9" xml:id="u-f041-L-9" xml:lang="lzh">廿七八歳貴女禀受虚弱一両年以来有姙孕終不能養胎去歳十二月末小産今来経</ab>
           <ab type="body" n="f041-L-10" xml:id="u-f041-L-10" xml:lang="lzh">閉腹塊侍女疑胎臓于動作手足煩熱日晡潮熱盗汗飲食無味大便微結小便頻脈弦数</ab>
           <ab type="prescription" n="f041-L-10a" xml:id="u-f041-L-10a" xml:lang="lzh">茯苓補心一</ab>
           <ab type="small_text" n="f041-L-11" xml:id="u-f041-L-11" xml:lang="lzh">主方</ab>
@@ -1988,7 +1988,7 @@
       <div n="42" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p42">
         <div type="surface" n="right">
           <ab type="section_heading" n="f042-R-1" xml:id="u-f042-R-1" xml:lang="lzh">○崩帯</ab>
-          <ab type="body" n="f042-R-2" xml:id="u-f042-R-2" xml:lang="lzh">四十余歳婦崩漏及二年不愈渾身浮腫常大便瀉如水全不食塩味湯澁飲食脈浮大</ab>
+          <ab type="body" n="f042-R-2" xml:id="u-f042-R-2" xml:lang="lzh">四十余歳婦崩漏及三年不愈渾身浮腫常大便瀉如水全不食塩味湯澁飲食脈浮大</ab>
           <ab type="body" n="f042-R-3" xml:id="u-f042-R-3" xml:lang="lzh">数</ab>
           <ab type="prescription" n="f042-R-3a" xml:id="u-f042-R-3a" xml:lang="lzh">医王加蒲地茎</ab>
           <ab type="body" n="f042-R-4" xml:id="u-f042-R-4" xml:lang="lzh">六余歳女子三年以来帯下或赤或白或赤白畢下如豆汁腹脹飲食無味大便結滞脈浮弦</ab>
@@ -1998,14 +1998,14 @@
           <ab type="body" n="f042-R-6" xml:id="u-f042-R-6" xml:lang="mul">四十余歳婦素肥白三ケ年已来患崩帯腹疼痛脈浮無力重按之則脈別又加動其形</ab>
           <ab type="body" n="f042-R-7" xml:id="u-f042-R-7" xml:lang="lzh">沉緊用薬五六貼病症悉愈</ab>
           <ab type="small_text" n="f042-R-7a" xml:id="u-f042-R-7a" xml:lang="lzh">同方</ab>
-          <ab type="body" n="f042-R-8" xml:id="u-f042-R-8" xml:lang="lzh">室女無経及三十余日不止不食煩渇脈浮而無力四動</ab>
+          <ab type="body" n="f042-R-8" xml:id="u-f042-R-8" xml:lang="lzh">室女毎経及三十余日不止不食煩渇脈浮而無力四動</ab>
           <ab type="prescription" n="f042-R-8a" xml:id="u-f042-R-8a" xml:lang="lzh">医王</ab>
-          <ab type="body" n="f042-R-9" xml:id="u-f042-R-9" xml:lang="lzh">六余歳女去正月下旬吐血鮮者四五度他医治之愈七八日以后大便血及今不止四月上旬以</ab>
+          <ab type="body" n="f042-R-9" xml:id="u-f042-R-9" xml:lang="lzh">廿余歳女去正月下旬吐血鮮者四五度他医治之愈七八日以后大便血及今不止四月上旬以</ab>
           <ab type="body" n="f042-R-10" xml:id="u-f042-R-10" xml:lang="lzh">来崩漏腹痛虚煩微渇食半減脈浮無力</ab>
           <ab type="prescription" n="f042-R-10a" xml:id="u-f042-R-10a" xml:lang="lzh">合方　四君子一　解毒一</ab>
           <ab type="section_heading" n="f042-R-11" xml:id="u-f042-R-11" xml:lang="lzh">○孕育</ab>
           <ab type="body" n="f042-R-12" xml:id="u-f042-R-12" xml:lang="lzh">六余歳婦十六歳時初姙孕及七月小産経一日生子厥后無姙甚肥満盛実月経絶小</ab>
-          <ab type="body" n="f042-R-13" xml:id="u-f042-R-13" xml:lang="lzh">診脈沉四動用薬及百余日月至多通来一両月之后懐姙今生子三人</ab>
+          <ab type="body" n="f042-R-13" xml:id="u-f042-R-13" xml:lang="lzh">診脈沉四動用薬及百余日月至多通来一両月之后懐姙今生子二三人</ab>
           <note type="editorial">崩帯與孕育</note>
         </div>
         <div type="surface" n="left">
@@ -2048,13 +2048,13 @@
           <ab type="body" n="f043-R-5" xml:id="u-f043-R-5" xml:lang="lzh">孕決懐難易産診脈平和無雑候志平素無異復于時侍者渇一両日食少心微痛行圓雑通</ab>
           <ab type="small_text" n="f043-R-6" xml:id="u-f043-R-6" xml:lang="lzh">主方</ab>
           <ab type="prescription" n="f043-R-6a" xml:id="u-f043-R-6a" xml:lang="lzh">合方　平胃散　香蘇散</ab>
-          <ab type="body" n="f043-R-7" xml:id="u-f043-R-7" xml:lang="lzh">用薬二貼翌日未明易産畢</ab>
+          <ab type="body" n="f043-R-7" xml:id="u-f043-R-7" xml:lang="lzh">用薬二貼翌日未明易産畢胞衣未下脈与気平</ab>
           <ab type="prescription" n="f043-R-7a" xml:id="u-f043-R-7a" xml:lang="lzh">牛膝一</ab>
-          <ab type="body" n="f043-R-8" xml:id="u-f043-R-8" xml:lang="lzh">用薬二貼胞衣未下気暈腹微痛手足微冷脈浮</ab>
+          <ab type="body" n="f043-R-8" xml:id="u-f043-R-8" xml:lang="lzh">用薬二貼胞衣下気暈腹微痛手足微冷脈浮</ab>
           <ab type="prescription" n="f043-R-8a" xml:id="u-f043-R-8a" xml:lang="lzh">玄胡索散</ab>
           <ab type="body" n="f043-R-9" xml:id="u-f043-R-9" xml:lang="lzh">用薬一貼畢腹痛暈止渾身発熱頭痛脈同</ab>
           <ab type="prescription" n="f043-R-9a" xml:id="u-f043-R-9a" xml:lang="lzh">医王</ab>
-          <ab type="body" n="f043-R-10" xml:id="u-f043-R-10" xml:lang="lzh">六七歳婦臨産及翌日卯刻未産診脈緊急于時如絶腹痛甚無他怪症用薬服一貼畢快</ab>
+          <ab type="body" n="f043-R-10" xml:id="u-f043-R-10" xml:lang="lzh">廿七八歳婦人臨産及翌日卯刻未産診脈緊急于時如絶腹痛甚無他怪症用薬服一貼畢快</ab>
           <ab type="small_text" n="f043-R-11" xml:id="u-f043-R-11" xml:lang="lzh">主方</ab>
           <ab type="prescription" n="f043-R-11a" xml:id="u-f043-R-11a" xml:lang="lzh">達生散</ab>
           <ab type="section_heading" n="f043-R-12" xml:id="u-f043-R-12" xml:lang="lzh">○産後</ab>
@@ -2118,14 +2118,14 @@
         </div>
         <div type="surface" n="left">
           <ab type="section_heading" n="f044-L-1" xml:id="u-f044-L-1" xml:lang="lzh">○乳癰</ab>
-          <ab type="body" n="f044-L-2" xml:id="u-f044-L-2" xml:lang="lzh">六余歳婦人去夏産畢経十余日左乳房核痛漸長作癰瘡外科用針刺膿血流出至今</ab>
+          <ab type="body" n="f044-L-2" xml:id="u-f044-L-2" xml:lang="lzh">廿余歳婦人去冬産畢経十余日左乳房核痛漸長作癰瘡外科用針刺膿血流出至今</ab>
           <ab type="body" n="f044-L-3" xml:id="u-f044-L-3" xml:lang="lzh">盗汗不食疼痛不食大便秘脈浮無力于時微渇</ab>
           <ab type="prescription" n="f044-L-3a" xml:id="u-f044-L-3a" xml:lang="lzh">医王</ab>
           <ab type="section_heading" n="f044-L-4" xml:id="u-f044-L-4" xml:lang="lzh">小児門</ab>
           <ab type="section_heading" n="f044-L-5" xml:id="u-f044-L-5" xml:lang="lzh">○撮口</ab>
           <ab type="body" n="f044-L-6" xml:id="u-f044-L-6" xml:lang="lzh">一児撮口不飲乳及明日未解</ab>
           <ab type="prescription" n="f044-L-6a" xml:id="u-f044-L-6a" xml:lang="lzh">蝎稍餅</ab>
-          <ab type="body" n="f044-L-7" xml:id="u-f044-L-7" xml:lang="lzh">十歳女子発熱面赤撮口于時痩癡啼声不通如呻吟大小便如常飲乳倍常</ab>
+          <ab type="body" n="f044-L-7" xml:id="u-f044-L-7" xml:lang="lzh">一歳女子発熱面赤撮口于時痩癡啼声不通如呻吟大小便如常飲乳倍常</ab>
           <ab type="small_text" n="f044-L-7a" xml:id="u-f044-L-7a" xml:lang="lzh">同方</ab>
           <ab type="body" n="f044-L-8" xml:id="u-f044-L-8" xml:lang="lzh">二歳女子及三日臍微痛腫身微熱微渇于時発搐手足指冷于時微咳</ab>
           <ab type="small_text" n="f044-L-8a" xml:id="u-f044-L-8a" xml:lang="lzh">同方</ab>
@@ -2134,7 +2134,7 @@
           <ab type="body" n="f044-L-11" xml:id="u-f044-L-11" xml:lang="lzh">対因近侍驚惑矣于時清心静心視面候気口懸針及于気関面色赤如変蒸</ab>
           <ab type="prescription" n="f044-L-11a" xml:id="u-f044-L-11a" xml:lang="lzh">惺々散</ab>
           <ab type="section_heading" n="f044-L-12" xml:id="u-f044-L-12" xml:lang="lzh">○驚風</ab>
-          <ab type="body" n="f044-L-13" xml:id="u-f044-L-13" xml:lang="lzh">一歳女子素肥満盛実無故而卒絶死及半時未甦脈動身温和足冷進薬二三口忽蘇生</ab>
+          <ab type="body" n="f044-L-13" xml:id="u-f044-L-13" xml:lang="lzh">二歳女子素肥満盛実無故而卒絶死及半時未甦脈動身温和足冷進薬二三口忽蘇生</ab>
           <ab type="prescription" n="f044-L-13a" xml:id="u-f044-L-13a" xml:lang="lzh">蝎稍餅</ab>
           <note type="editorial">乳癰、小児門、撮口、變蒸、驚風</note>
         </div>
@@ -2187,7 +2187,7 @@
           <ab type="body" n="f045-L-7" xml:id="u-f045-L-7" xml:lang="lzh">六七歳女子卒発熱咳嗽煩渇他医治而翌日汗甚出渾身赤班咽痛脈弦数二便澁不食此女</ab>
           <ab type="body" n="f045-L-8" xml:id="u-f045-L-8" xml:lang="lzh">子未患痘疹流行疑似甚危</ab>
           <ab type="prescription" n="f045-L-8a" xml:id="u-f045-L-8a" xml:lang="lzh">八味逍遥散</ab>
-          <ab type="body" n="f045-L-9" xml:id="u-f045-L-9" xml:lang="lzh">二歳児発熱吐瀉于時発搐及四日未解午朝見赤粟点一二見小便清利</ab>
+          <ab type="body" n="f045-L-9" xml:id="u-f045-L-9" xml:lang="lzh">三歳児発熱吐瀉于時発搐及四日未解午朝見赤粟点一二見小便清利</ab>
           <ab type="prescription" n="f045-L-10" xml:id="u-f045-L-10" xml:lang="lzh">七味　黄芍葛苓散升耳</ab>
           <ab type="body" n="f045-L-11" xml:id="u-f045-L-11" xml:lang="lzh">五歳児発痘及八日吐瀉黒血痘色紅渾身大熱危症侍死期</ab>
           <ab type="prescription" n="f045-L-11a" xml:id="u-f045-L-11a" xml:lang="lzh">黄連解毒一</ab>
@@ -2217,7 +2217,7 @@
           <ab type="body" n="f046-R-8" xml:id="u-f046-R-8" xml:lang="lzh">紫色二筋関至気関不食体痩小便順大便一日二三瀉</ab>
           <ab type="prescription" n="f046-R-8a" xml:id="u-f046-R-8a" xml:lang="lzh">銭氏白朮散</ab>
           <ab type="body" n="f046-R-9" xml:id="u-f046-R-9" xml:lang="lzh">童子痩弱素腹大自去春至今腹脹如鼓有青筋終脱肛大如小指不進往来寒熱諸</ab>
-          <ab type="body" n="f046-R-10" xml:id="u-f046-R-10" xml:lang="lzh">医雖与数方無寸効及考一方進之六余日甚有奇効食進病退大半愈</ab>
+          <ab type="body" n="f046-R-10" xml:id="u-f046-R-10" xml:lang="lzh">医雖与数方無寸効及考一方進之廿余日甚有奇効食進病退大半愈</ab>
           <ab type="prescription" n="f046-R-10a" xml:id="u-f046-R-10a" xml:lang="lzh">合方　小柴胡一　平胃散</ab>
           <ab type="section_heading" n="f046-R-11" xml:id="u-f046-R-11" xml:lang="lzh">○泄瀉</ab>
           <ab type="body" n="f046-R-12" xml:id="u-f046-R-12" xml:lang="lzh">三四歳児病痘疹愈后身熱渇而飲不知数大便瀉三十行小便清利過多如清水不食気</ab>
@@ -2240,7 +2240,7 @@
           <ab type="body" n="f046-L-8" xml:id="u-f046-L-8" xml:lang="lzh">手足冷腹脹堅如積塊面色痿黄神志懶不楽于時微渇食于時進于腹不進脈無卒死用一</ab>
           <ab type="body" n="f046-L-9" xml:id="u-f046-L-9" xml:lang="lzh">貼畢偶然得大験矣</ab>
           <ab type="prescription" n="f046-L-9a" xml:id="u-f046-L-9a" xml:lang="lzh">益胃散</ab>
-          <ab type="body" n="f046-L-10" xml:id="u-f046-L-10" xml:lang="lzh">七歳女子風症病十四日諸医治之病悉愈食物如常二便順食柿于時腹痛呕吐他医与薬悉</ab>
+          <ab type="body" n="f046-L-10" xml:id="u-f046-L-10" xml:lang="lzh">七八歳女子風症病十四日諸医治之病悉愈食物如常二便順食柿于時腹痛呕吐他医与薬悉</ab>
           <ab type="body" n="f046-L-11" xml:id="u-f046-L-11" xml:lang="lzh">愈隔一両日腹痛瀉下呕吐至八日未愈脈緊数手足微冷</ab>
           <ab type="prescription" n="f046-L-11a" xml:id="u-f046-L-11a" xml:lang="lzh">不換金正気散</ab>
           <ab type="body" n="f046-L-12" xml:id="u-f046-L-12" xml:lang="lzh">用薬二貼吐瀉腹痛大半退脈数減五動微浮弦手足温于時微渇不食</ab>
@@ -2267,9 +2267,9 @@
           <ab type="body" n="f047-R-6" xml:id="u-f047-R-6" xml:lang="lzh">脈弦数全不食小便赤澁</ab>
           <ab type="prescription" n="f047-R-6a" xml:id="u-f047-R-6a" xml:lang="lzh">導滞湯</ab>
           <ab type="section_heading" n="f047-R-7" xml:id="u-f047-R-7" xml:lang="lzh">○瘡瘍</ab>
-          <ab type="body" n="f047-R-8" xml:id="u-f047-R-8" xml:lang="lzh">二歳子渾身生小瘡自頭面至手足無同地日晡微熱二便順乳食無否艾母仍平愈</ab>
+          <ab type="body" n="f047-R-8" xml:id="u-f047-R-8" xml:lang="lzh">三歳子渾身生小瘡自頭面至手足無同地日晡微熱二便順乳食無否艾母仍平愈</ab>
           <ab type="prescription" n="f047-R-8a" xml:id="u-f047-R-8a" xml:lang="lzh">連翹飲</ab>
-          <ab type="section_heading" n="f047-R-9" xml:id="u-f047-R-9" xml:lang="lzh">○斑疹</ab>
+          <ab type="section_heading" n="f047-R-9" xml:id="u-f047-R-9" xml:lang="lzh">○班疹</ab>
           <ab type="body" n="f047-R-10" xml:id="u-f047-R-10" xml:lang="lzh">五六歳児発熱起往来手指冷頭痛食微咳脈緊数于時驚眼中赤于時便瀉于時腹痛</ab>
           <ab type="body" n="f047-R-11" xml:id="u-f047-R-11" xml:lang="lzh">乾吐</ab>
           <ab type="prescription" n="f047-R-11a" xml:id="u-f047-R-11a" xml:lang="lzh">惺々散</ab>
@@ -2284,21 +2284,21 @@
           <ab type="body" n="f047-L-2" xml:id="u-f047-L-2" xml:lang="lzh">自初症今日及六日順于時微渇腹微痛</ab>
           <ab type="prescription" n="f047-L-2a" xml:id="u-f047-L-2a" xml:lang="lzh">前方加黄門朴</ab>
           <ab type="section_heading" n="f047-L-3" xml:id="u-f047-L-3" xml:lang="lzh">○奇病</ab>
-          <ab type="body" n="f047-L-4" xml:id="u-f047-L-4" xml:lang="lzh">六四五歳男自両目濁血流出而以手摩両目或以水洗治一日四五度</ab>
+          <ab type="body" n="f047-L-4" xml:id="u-f047-L-4" xml:lang="lzh">廿四五歳男自面目濁血流出而以手摩面目或以水洗治一日四五度</ab>
           <ab type="red_note" n="f047-L-4a" xml:id="u-f047-L-4a" xml:lang="lzh">□血</ab>
           <ab type="prescription" n="f047-L-4b" xml:id="u-f047-L-4b" xml:lang="lzh">香蘇散四貼愈</ab>
           <ab type="body" n="f047-L-5" xml:id="u-f047-L-5" xml:lang="lzh">三十歳男子一身無他病□身振寒甚其病速愈</ab>
           <ab type="red_note" n="f047-L-5a" xml:id="u-f047-L-5a" xml:lang="lzh">振寒</ab>
           <ab type="prescription" n="f047-L-5b" xml:id="u-f047-L-5b" xml:lang="lzh">合方　四物一　小柴胡一</ab>
-          <ab type="body" n="f047-L-6" xml:id="u-f047-L-6" xml:lang="lzh">男子四五歳之間両手足之脈渋代与三貼如神</ab>
+          <ab type="body" n="f047-L-6" xml:id="u-f047-L-6" xml:lang="lzh">男子十四五歳之間両手足之脈渋代与三貼如神</ab>
           <ab type="prescription" n="f047-L-6a" xml:id="u-f047-L-6a" xml:lang="lzh">生脈散</ab>
           <ab type="body" n="f047-L-7" xml:id="u-f047-L-7" xml:lang="lzh">一男吐血数日時夏月</ab>
           <ab type="red_note" n="f047-L-7a" xml:id="u-f047-L-7a" xml:lang="lzh">吐血</ab>
           <ab type="prescription" n="f047-L-7b" xml:id="u-f047-L-7b" xml:lang="lzh">地茄　二味並用其功如神</ab>
-          <ab type="body" n="f047-L-8" xml:id="u-f047-L-8" xml:lang="lzh">一男癘疾三年余終不治案工東年先生之主方</ab>
-          <ab type="red_note" n="f047-L-8a" xml:id="u-f047-L-8a" xml:lang="lzh">癘</ab>
+          <ab type="body" n="f047-L-8" xml:id="u-f047-L-8" xml:lang="lzh">一男瘧疾三年余終不治與工東年先生之主方</ab>
+          <ab type="red_note" n="f047-L-8a" xml:id="u-f047-L-8a" xml:lang="lzh">瘧</ab>
           <ab type="prescription" n="f047-L-8b" xml:id="u-f047-L-8b" xml:lang="lzh">黄地二味並用二貼得験奇哉</ab>
-          <ab type="body" n="f047-L-9" xml:id="u-f047-L-9" xml:lang="lzh">似哉脳虫雑養之未用</ab>
+          <ab type="body" n="f047-L-9" xml:id="u-f047-L-9" xml:lang="lzh">妙哉胸虫雞糞之未用</ab>
           <ab type="body" n="f047-L-10" xml:id="u-f047-L-10" xml:lang="mul">更□智恵ヲトリ軽ニハ白朮一味ヲ振用</ab>
           <ab type="closing_statement" n="f047-L-11" xml:id="u-f047-L-11" xml:lang="lzh">見宜主方終</ab>
           <ab type="colophon" n="f047-L-12" xml:id="u-f047-L-12" xml:lang="lzh">延宝三秊　三月日</ab>
@@ -2314,8 +2314,8 @@
       <div n="48" type="scan" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001837/canvas/p48">
         <div type="surface" n="right">
           <ab type="colophon" n="f048-R-1" xml:id="u-f048-R-1" xml:lang="lzh">安政四年時々用之有効依之后孫長一可眞用之也</ab>
-          <ab type="attribution" n="f048-R-1a" xml:id="u-f048-R-1a">馬嶋良三謹筆□</ab>
-          <ab type="colophon" n="f048-R-2" xml:id="u-f048-R-2" xml:lang="lzh">明治十五時年七十三時々相用有効隠翁書　方庵</ab>
+          <ab type="attribution" n="f048-R-1a" xml:id="u-f048-R-1a">馬島良三謹筆□</ab>
+          <ab type="colophon" n="f048-R-2" xml:id="u-f048-R-2" xml:lang="lzh">明治十五時年七十三時々相用百効隠翁書　方庵</ab>
           <ab type="red_stamp" n="f048-R-2a" xml:id="u-f048-R-2a">□</ab>
           <note type="editorial">題記兩欄、署名及朱篆，余區背透</note>
         </div>
